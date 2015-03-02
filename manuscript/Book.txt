@@ -1,9 +1,12 @@
 frontmatter.txt
+front/biography.md
 front/theory.md
+
 
 mainmatter.txt
 
 
 backmatter.txt
-
+back/glossary.md
+back/references.md
 
