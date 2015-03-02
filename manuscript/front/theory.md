@@ -7,6 +7,7 @@ For them to succeed at programming a learner must be capable of:
 - Know when to ask for help
 - How to phrase questions when asking for help
 - To do the work in learning
+{pagebreak}
 
 It is said that it takes 10,000 hours of doing something while learning to get good at it. The author is taking this approach heavily within this book.
 

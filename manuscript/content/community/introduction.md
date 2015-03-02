@@ -14,4 +14,4 @@ The most important thing to remember is to respect others. As long as you respec
 In terms of this book when you want or need help there will be a few ways to get it. Primarily the D.learn newsgroup[^DLearnNewsGroup]. You are not required to register to post upon it.
 *TODO:* IRC/XMPP
 
-[^DLearnNewsGroup] http://forum.dlang.org/group/digitalmars.D.learn
+[^DLearnNewsGroup]: http://forum.dlang.org/group/digitalmars.D.learn
