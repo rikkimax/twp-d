@@ -1,9 +1,17 @@
 frontmatter.txt
 front/biography.md
+front/howToRead.md
 front/theory.md
 
 
 mainmatter.txt
+content/introduction.md
+
+content/community/introduction.md
+content/community/forum.md
+content/community/mailingList.md
+content/community/irc.md
+content/community/beingAProfesional.md
 
 
 backmatter.txt

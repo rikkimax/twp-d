@@ -1,4 +1,4 @@
-# Theory
+## Theory
 Learning any new concepts and ideas is a difficult task for anyone. Concepts and ideas them selves have a varying level of difficulty to learn. The methods for learning anything is well studied. Classically the research in the methods for learning have been directed at the topics at hand and not the concept and ideas them selves. Not all educators go the classical route with teaching methods. For these educators they focus on the concept and ideas. Unfortunately a lot of resources are not available for such teaching methods. Usually any resources easily available focus upon the topics at hand instead of teaching what does it actually mean in the big picture.
 This is where the author would like the reader to take note. This book is directed at teaching concepts and ideas by using the D programming language as the first language for students. The choice in the language may seem strange since it is not typeically considered a main stream language. Because of its strengths it was chosen.
 For them to succeed at programming a learner must be capable of:
