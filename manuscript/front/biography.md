@@ -1,0 +1,5 @@
+# Author biography
+Richard or Rikki as he likes to be known, is a life long programmer, and loves to help others to better themselves. As part of this, he began work on this book to teach programming in a different way that will help people new to programming pick up the concept and ideas faster and more fomed.
+To understand other methods of teaching and why this book is different the author wishes to recognised the Theory chapter.
+
+After completion of Developing with compile time in mind, Rikki in need of work and a new book project, he choose to begin work on this. Compile Time Function Execution (CTFE) is a well favorite of his. This is a unqiue language feature of LISP family of languages and D. It picked his interest in what uses it has while working on a web service framework at the end of 2012 and start of 2013. It later came to support Javascript generation for routes and data models at compile time. Later on in early 2015 having proposed a talk at DConf 2015 came up with a new idiom for working with CTFE.
