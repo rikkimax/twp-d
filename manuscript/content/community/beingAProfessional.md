@@ -12,11 +12,12 @@ Some education institutions and companies may have partnerships with such organi
 A great example of a professional institute is IITP[^IITPwebsite]. Almost everything above is done by IITP. They partner with education institutes such as CPIT[^CPITwebsite] and run events for members. There is also a code of conduct[^IITPCodeOfConduct].
 If you are learning by yourself, a profesional institute is probably not a good way to go at this point in time. Instead I would recommend foccussing on getting into some form of online community such as D's to learn from. If you are at an education institute post high school, and a bit further down in your studies then a profesional institute can help you get a job early on. Use the events as a way to network with others. Get to know your local workforce.
 
-TODO: felsh out
+### General rules to live by
+A controversial rule of thumb for software developers is that we are everything to everyone in IT. Need a networker? We're it. Need a tester? We're it. Need that OS reinstalled, we got your backs. Server failing to start a crucial service? We'll get it working.
+In this way, being a programmer is far more difficult then any other job in IT, as a programmer we may be called upon to learn how to etch a pcb really fast and get the kit already to go. It may not be what you wanted to do in life. If you are able to just do these jobs well without complaining. Perhaps even enjoying it, you may find it to be the most rewarding part of the profesion.
+While this rule of thumb is great for most circumstances, a more concrete list is on the following page.
 
 {pagebreak}
-
-### General rules to live by
 Some rules that any profesional should work based upon:
 
 1. Just because everybody else does it, doesn't mean you should
@@ -44,9 +45,6 @@ A lot of these are based upon IITP's code of conduct. The author recommends that
 8. Best practice, is relative
 
    When looking at best practice, things like coding standards will depend upon a community or company culture. For things like servers having enough performance wiggle room for increase in number of clients should be allowed for. Servers running at 100% constantly are not happy servers.
-
-A controversial rule of thumb for software developers is that we are everything to everyone in IT. Need a networker? We're it. Need a tester? We're it. Need that OS reinstalled, we got your backs. Server failing to start a crucial service? We'll get it working.
-In this way, being a programmer is far more difficult then any other job in IT, as a programmer we may be called upon to learn how to etch a pcb really fast and get the kit already to go. It may not be what you wanted to do in life. If you are able to just do these jobs well without complaining. Perhaps even enjoying it, you may find it to be the most rewarding part of the profesion.
 
 [^IITPwebsite]: http://iitp.nz
 [^IITPCodeOfConduct]: http://iitp.nz/files/IITP Code of Professional Conduct.pdf
