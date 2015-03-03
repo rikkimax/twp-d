@@ -12,6 +12,7 @@ If you are learning by yourself, a profesional institute is probably not a good 
 
 ### General rules to live by
 Some rules that any profesional should work based upon:
+
 1. Just because everybody else does it, doesn't mean you should
     You should at the best possible actions at every point. If others do shady work, you should aim to not be part of it or even to stop it. Such actions are not profesional. By bettering yourself and your actions, everyone reaps the benefit. Just don't go over doing it.
 2. Treat others with respect
