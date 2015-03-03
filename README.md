@@ -1,4 +1,6 @@
 # The way to program - Lets think like a D(eveloper)
+
+[![Join the chat at https://gitter.im/rikkimax/twp-d](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rikkimax/twp-d?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This book teaches programming by using referential technique for concepts and ideas. Instead of teaching the topics them selves. Aka refering to concepts and ideas primarily already learnt.
 It is available in PDF, MOBI and EPUB versions at [leanpub](https://leanpub.com/twp-d) (non free).
 [The D programming language](http://dlang.org) is used as the primarily language of this book. Other books in the series will not.
