@@ -12,8 +12,7 @@ It is said that it takes 10,000 hours of doing something while learning to get g
 To archive this the author is pushing the reader into doing small exercises to show the purpose and to give a general overview of each topic to the reader. The theory accompanying it as well as the quizes are not required to be read and done. They are there so the reader once needing more information has a good source to expand upon.
 
 {pagebreak}
-The common layout topics in this book will be in the format of:
-Where *optional* elements may not be required for every topic. They could be left out.
+A common layout for each topic is being used where programming discussion and learning content is. The layout of each topic is meant to engage the reader into the topic itself and not topics content. Where *optional* elements may not be required for every topic. They could be left out. The layout is as follows:
 
 - Topic title
 - Summary of topic
@@ -21,7 +20,7 @@ Where *optional* elements may not be required for every topic. They could be lef
 - *Optional:* Break down of theory
 - Actual theory
 - *Optional:* Linking previous theory to current
-- *Optional:* Quizes
+- *Optional:* Quizzes
 - *Optional:* Things to think about (or try out)
 
 This format was chosen to have as much optional content as possible for the first go at it. When learning it is not ideal to learn a whole new topic in one go. Instead it is done in iterations, slowly chipping away at what is not known.

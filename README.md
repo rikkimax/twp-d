@@ -21,7 +21,3 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/community/irc.md
 * content/community/mailingList.md
 * images/title_page.jpg
-
-**Other:**
-
-* gitter.im?
