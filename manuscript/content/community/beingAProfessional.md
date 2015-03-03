@@ -38,8 +38,15 @@ A lot of these are based upon IITP's code of conduct. The author recommends that
 6. Keep learning
 
    I can't stress this one enough. Learn constantly. Have side projects. If your boss doesn't like it? Too bad! They need to understand that up skilling makes you a better programmer. In fact, it could one day benefit the company.
+7. If you need something say so. Stick to it and don't back down
 
-TODO: flesh out
+   There will be a lot of pressure within a company to do things cheaply, fast and to a high standard. A lot of employers and managers may not understand that a 10 year old consumer computer can't do what a new $5000+ server can do. Or push you into not requiring it when it is best practice or will be reasonably required.
+8. Best practice, is relative
+
+   When looking at best practice, things like coding standards will depend upon a community or company culture. For things like servers having enough performance wiggle room for increase in number of clients should be allowed for. Servers running at 100% constantly are not happy servers.
+
+A controversial rule of thumb for software developers is that we are everything to everyone in IT. Need a networker? We're it. Need a tester? We're it. Need that OS reinstalled, we got your backs. Server failing to start a crucial service? We'll get it working.
+In this way, being a programmer is far more difficult then any other job in IT, as a programmer we may be called upon to learn how to etch a pcb really fast and get the kit already to go. It may not be what you wanted to do in life. If you are able to just do these jobs well without complaining. Perhaps even enjoying it, you may find it to be the most rewarding part of the profesion.
 
 [^IITPwebsite]: http://iitp.nz
 [^IITPCodeOfConduct]: http://iitp.nz/files/IITP Code of Professional Conduct.pdf

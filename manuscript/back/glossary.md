@@ -16,3 +16,4 @@
 
    Originating back in the late 80's when dial up internet was still not wide spread
 * IITP: Institute of IT Professionals New Zealand
+* IT: Information Technology
