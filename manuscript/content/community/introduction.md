@@ -8,6 +8,7 @@ Some general rules you should live by while in an online community:
 * When others say something that you disagree with, do not say mean things to them. What is defined as mean is determined by the community
 * When you make a mistake own up to it. Do not get aggresive or concerned about it. Everybody makes mistakes. How we handle it once we know about it is what counts
 * They have rules, they might not be written but they exist. Try and learn them before rushing into the community and trying to change things
+* If you are part of a company, you are a representative of them. Act the way your collegues would expect of you
 
 The most important thing to remember is to respect others. As long as you respect them and do what they expect you to do as a member of their community you will be accepted. If they do not act respectfully towards you it is a good sign that you should not be interacting with them.
 

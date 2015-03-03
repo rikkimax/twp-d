@@ -14,4 +14,5 @@
    An oldish method for communicating with large number of other people in simplistically. Originating from BBS's.
 * BBS: Bulletin Board System
 
-   Originating back in the late 80's when dial up internet was still not wide spread 
+   Originating back in the late 80's when dial up internet was still not wide spread
+* IITP: Institute of IT Professionals NZ

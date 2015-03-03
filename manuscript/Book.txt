@@ -11,7 +11,7 @@ content/community/introduction.md
 content/community/forum.md
 content/community/mailingList.md
 content/community/irc.md
-content/community/beingAProfesional.md
+content/community/beingAProfessional.md
 
 
 backmatter.txt
