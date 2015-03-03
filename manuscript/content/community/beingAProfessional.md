@@ -3,6 +3,7 @@
 ## Being a professional
 A professional is much more then just a suit and tye. In fact as programmers that would be too formal for most occasional.
 Being a profesional is all about how you treat others and how you act in general. It is important to understand what this is in IT. As IT workers generally consider this an important topic.
+
 Always aim to be a profesional even when not working in a company. Otherwise you could end up being well known on the internet for running an open source project not only poorly but also against every best practice known to the industry while treating others like they know nothing. In other words, hated.
 
 ### Professional Institutes
