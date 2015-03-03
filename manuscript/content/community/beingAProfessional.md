@@ -1,3 +1,5 @@
+{pagebreak}
+
 ## Being a professional
 A professional is much more then just a suit and tye. In fact as programmers that would be too formal for most occasions.
 
@@ -10,7 +12,10 @@ Some education institutions and companies may have partnerships with such organi
 A great example of a professional institute is IITP[^IITPwebsite]. Almost everything above is done by IITP. They partner with education institutes such as CPIT[^CPITwebsite] and run events for members. There is also a code of conduct[^IITPCodeOfConduct].
 If you are learning by yourself, a profesional institute is probably not a good way to go at this point in time. Instead I would recommend foccussing on getting into some form of online community such as D's to learn from. If you are at an education institute post high school, and a bit further down in your studies then a profesional institute can help you get a job early on. Use the events as a way to network with others. Get to know your local workforce.
 
+TODO: felsh out
+
 {pagebreak}
+
 ### General rules to live by
 Some rules that any profesional should work based upon:
 
@@ -28,6 +33,7 @@ A lot of these are based upon IITP's code of conduct. The author recommends that
 6. Keep learning
     I can't stress this one enough. Learn constantly. Have side projects. If your boss doesn't like it? Too bad! They need to understand that up skilling makes you a better programmer. In fact, it could one day benefit the company.
 
+TODO: flesh out
 
 [^IITPwebsite]: http://iitp.nz
 [^IITPCodeOfConduct]: http://iitp.nz/files/IITP Code of Professional Conduct.pdf
