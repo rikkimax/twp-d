@@ -9,6 +9,7 @@ Services are systems that provide user authentication and management of the IRC 
 
 Operators or opers for short, are people who administrate the network in general. Any one of them can perform an IP ban or do anything to you upon the network as they wish.
 
+{pagebreak}
 There are two methods for communicating within an IRC network:
 
 1. Private messages
