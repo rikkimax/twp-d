@@ -13,6 +13,7 @@ content/community/mailingList.md
 content/community/irc.md
 content/community/beingAProfessional.md
 
+content/whereToBegin.md
 
 backmatter.txt
 back/glossary.md

@@ -16,6 +16,5 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 
 * content/introduction.md
 * content/community/introduction.md
-* content/community/irc.md
-* content/community/mailingList.md
+* content/whereToBegin.md
 * images/title_page.jpg
