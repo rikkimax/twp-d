@@ -17,3 +17,10 @@
    Originating back in the late 80's when dial up internet was still not wide spread
 * IITP: Institute of IT Professionals New Zealand
 * IT: Information Technology
+* BBcode: Bulletin Board Code
+
+   A method of annotating formatting instructions into a post for e.g. forums.
+* Bulletin board
+
+   The primary method of communication between internet users before centralised communication with internet backbones between ISP's. It was used heavily in the 80's. IRC originated from this technology.
+* ISP: Internet Service Provider
