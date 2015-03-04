@@ -19,7 +19,10 @@ There are two methods for communicating within an IRC network:
 
    Channels are the main form of communication. It enables communicating with a group of people. Channels have a verity of 'levels'. A level determines what a user can do within that channel. The actual control of a channel is done by was is normally known as chanserv aka channel service.
 
+Within a channel there is a title, list of users and that actual chat itself. The mechanism that powers the chat in a channel vs a private message is the same. Only a channel is prefixed by a #.
 Common services that an IRC network will have are:
+
+There are many services available on an IRC network. Some may have more then others. But the common ones are:
 
 * Channel management
 * Nickname management (users)
