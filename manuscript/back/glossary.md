@@ -24,3 +24,6 @@
 
    The primary method of communication between internet users before centralised communication with internet backbones between ISP's. It was used heavily in the 80's. IRC originated from this technology.
 * ISP: Internet Service Provider
+* OOP: Object Orientated Programming
+
+   An advanced way to represent information hierachies in memory.

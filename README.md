@@ -18,3 +18,8 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/community/introduction.md
 * content/whereToBegin.md
 * images/title_page.jpg
+
+**Others:**
+
+* split community into a 'general knowledge' section
+* add a programming chapters to compliment 'general knowledge'
