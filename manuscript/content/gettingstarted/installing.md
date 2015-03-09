@@ -3,6 +3,7 @@ Along side dmd, it is highly recommended to also install dub[^dubDownload]. Dub 
 
 ### Windows
 Dependencies:
+
 - *Optional:* Visual Studio Community Edition
 
 Getting dmd to work out of the box for Windows is a little more difficult if you want 64bit support. By default it can generate 32bit binaries fine. Which is good enough for this book. Your CPU may support 64bit but 32bit binaries will work just as well.
@@ -13,12 +14,14 @@ TODO: images
 
 ### OSX
 Dependencies:
+
 -XCode
 
 TODO: images
 
 ### Linux
 Dependencies:
+
 - Curl (Remember to get the dev package as well!)
 - build-essential (for e.g. the ld linker)
 

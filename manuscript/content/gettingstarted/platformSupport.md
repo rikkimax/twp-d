@@ -13,5 +13,6 @@ There are three main toolchains available for D. Keep in mind a toolchain is not
 
 Currently no toolchain out right supports ARM or PowerPC. Older Mac OSX machines used the PowerPC architecture. These are not supported.
 
-G> **While learning you should only use the latest version of dmd**
-G> This will give you the best support and experiance.
+I> **While learning you should only use the latest version of dmd**
+I> 
+I> This will give you the best support and experiance.
