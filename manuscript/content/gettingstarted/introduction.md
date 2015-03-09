@@ -8,4 +8,6 @@ The basic steps:
 3. Run the installer (if chosen otherwise unpack the zip)
 4. Optionally add dmd to PATH (if you used an installer this was probably done for you)
 
+It is also prudent to know how to get help during learning. For this how to be part of online communities is important to know.
+
 [^DDownloads]: http://dlang.org/download.html

@@ -14,12 +14,11 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 ## TODO
 **Pages:**
 
-* content/introduction.md
-* content/community/introduction.md
-* content/whereToBegin.md
 * images/title_page.jpg
-
-**Others:**
-
-* split community into a 'general knowledge' section
-* add a programming chapters to compliment 'general knowledge'
+* content/introduction.md
+* content/gettingstarted/introduction.md
+* content/gettingstarted/installing.md
+* content/gettingstarted/community/introduction.md
+* content/gettingstarted/community/D.md
+* content/gettingstarted/helloworld.md
+* content/gettingstarted/basictheory.md
