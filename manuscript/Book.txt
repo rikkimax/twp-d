@@ -9,6 +9,9 @@ content/introduction.md
 
 
 content/gettingstarted/introduction.md
+content/gettingstarted/platformSupport.md
+content/gettingstarted/installing.md
+
 content/gettingstarted/community/introduction.md
 content/gettingstarted/community/forum.md
 content/gettingstarted/community/mailingList.md
