@@ -1,7 +1,5 @@
 # Introduction
-Getting started on how to program is a difficult task. Do not be afraid. There is a lot of hard work involved, but this book is written to help make this journey relatively easy.
-
-The general flow of this book is as follows:
+Getting started on how to program is a difficult task. Do not be afraid. There is a lot of hard work involved, but this book is written to help make this journey relatively easy. The general flow of this book is as follows:
 
 1. Getting the infrastructure to be able to run code that you write. This is the first significant chapter. It will walk you through a simple Hello World program. It also discusses on how to get help.
 2. Grouping of code "functions" is introduced. This forms the very basics of how code is executed.
