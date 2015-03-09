@@ -1,5 +1,15 @@
 ## Theory
-Learning any new concepts and ideas is a difficult task for anyone. Concepts and ideas themselves have a varying level of difficulty to learn. The methods for learning anything is well studied. Classically the research in the methods for learning have been directed at the topics at hand and not the concept and ideas themselves. Not all educators go the classical route with teaching methods. For these educators they focus on the concept and ideas. Unfortunately a lot of resources are not available for such teaching methods. Usually any resources easily available focus upon the topics at hand instead of teaching what does it actually mean in the big picture.
+Learning is a little like doing a jigsaw puzzle. Normally when learning you are given a handful pieces and then required to go create your own. But how can you create your own or even work out how the handful you are given fit together?
+
+Of course when you are teaching yourself, you are quite often given pieces for other puzzles while also getting parts of a single piece. It can be hard to know what part goes to what and which pieces are not even to your own puzzle.
+
+In programming atleast, the puzzle itself could change on a daily basis. So not only do you need to find parts of the puzzle. It is also necessary to ensure that they are part of the same puzzle you are doing.
+
+While it is not possible to be given all the pieces of the puzzle when you are starting out at programming. You can atleast be given a good number of them. More likely than not, you will ignore most of them.
+
+Just knowing programming topics themselves is not enough. It is necessary to have the pieces to where they fit in. For example native programming and inline assembly. The book for example may not cover assembly, but it should atleast cover the basics of what assembly is via inline assembly.
+
+For this book atleast, the concepts and ideas as well as some basics around them are covered. Keeping in mind that concepts and ideas themselves have a varying level of difficulty to learn. The methods for learning anything is well studied. Classically the research in the methods for learning have been directed at the topics at hand and not the concept and ideas themselves. Not all educators go the classical route with teaching methods. For these educators they focus on the concept and ideas. Unfortunately a lot of resources are not available for such teaching methods. Usually any resources easily available focus upon the topics at hand instead of teaching what does it actually mean in the big picture.
 This is where the author would like the reader to take note. This book is directed at teaching concepts and ideas by using the D programming language as the first language for students. The choice in the language may seem strange since it is not typeically considered a main stream language. Because of its strengths it was chosen.
 For them to succeed at programming a learner must be capable of:
 
