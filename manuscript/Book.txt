@@ -7,13 +7,14 @@ front/theory.md
 mainmatter.txt
 content/introduction.md
 
-content/community/introduction.md
-content/community/forum.md
-content/community/mailingList.md
-content/community/irc.md
-content/community/beingAProfessional.md
 
-content/whereToBegin.md
+content/gettingstarted/introduction.md
+content/gettingstarted/community/introduction.md
+content/gettingstarted/community/forum.md
+content/gettingstarted/community/mailingList.md
+content/gettingstarted/community/irc.md
+content/gettingstarted/community/beingAProfessional.md
+
 
 backmatter.txt
 back/glossary.md
