@@ -46,8 +46,18 @@ This is a very basic usage of a variable. In the above one, it will almost compl
 sdf
 
 **Previous theory:**
+Previously we looked at functions. It was said that they had arguments, but not say how they are defined. They are variables but instead of them being defined on a seperate line they are in the function declaration:
 
-sdf
+```D
+import std.stdio;
+
+void somefunction(string text) {
+    writeln(text);
+}
+```
+In the above example, somefunction would get called like we did in hello world for writeln. Passing in the value exactly the same. What isn't shown is that you can have multiple arguments defined per function. They are seperated by a comma. Unlike variable definitions normally which must end in a semicolon.
+
+An example of multiple arguments declared is ``void somefunction(string texta, string textb) {``. For the unaware reader, the usage of text with ``string`` data type is completely the authors choice.
 
 {pagebreak}
 **Quizzes:**
