@@ -21,6 +21,8 @@ content/gettingstarted/community/beingAProfessional.md
 content/gettingstarted/helloworld.md
 
 
+content/codegroup.md
+
 backmatter.txt
 back/glossary.md
 back/references.md
