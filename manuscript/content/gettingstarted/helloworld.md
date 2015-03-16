@@ -5,6 +5,7 @@ Everything in this chapter uses the command line interface. For Windows this is 
 
 Before we can write a simple "Hello World" program, we first have to check that the compiler is available to use. To do so we try running it. If it is not found, then it is not on the ``PATH`` variable. When an executable is on your ``PATH`` variable, it can be executed without directly specifying the exact location. You can check that it is by running:
 
+{line-numbers=off}
 ```sh
 dmd
 ```
@@ -47,6 +48,7 @@ So far you should have created a directory which your command line shell is curr
 
 Before executing code, you need to compile it. There are two ways to compile and run it. The harder way:
 
+{line-numbers=off}
 ```sh
 dmd helloworld.d
 ./helloworld
@@ -55,6 +57,7 @@ On Windows remove the *./* in front of helloworld. This is required on Nix* base
 
 And now the easier way, that should work. Depending upon your installation method and ``PATH`` variable.
 
+{line-numbers=off}
 ```sh
 rdmd helloworld.d
 ```
