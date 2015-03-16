@@ -43,7 +43,9 @@ void main() {
 For Nix* users you may want to consider a text editor such as nano or vim. To ease going between console and editing the files. Nano is by far the easiest to use.
 
 {pagebreak}
-There are two ways to compile and run it. The harder way:
+So far you should have created a directory which your command line shell is currently in (take a look at cd). As well as a file under it called ``helloworld.d``. Containing the source code of your first ever program. You will most likely write code like this many times over the course of your life. To test environments like now.
+
+Before executing code, you need to compile it. There are two ways to compile and run it. The harder way:
 
 ```sh
 dmd helloworld.d
@@ -56,9 +58,11 @@ And now the easier way, that should work. Depending upon your installation metho
 ```sh
 rdmd helloworld.d
 ```
-Most code in this book will probably be only in one file. As such rdmd is the best method to use for these programs. However dmd is the way you should be compiling your code as you get full control over the method used.
-
 If this has worked as expected you should have received on the standard output (more on this later, take it as just being your shell) the text ``Hello World!``.
+
+Not all programming languages seperate these two steps out. But what are known as *native* languages or system programming languages, require it. They are the fastest and most efficient of all the languages.
+
+Most code in this book will probably be using only one file. As such rdmd is the best method to use for these programs. In real world usage dmd is the way you should be compiling your code, as you get full control over the method used. For small scripts rdmd is perfactly acceptable like we are using it for.
 
 T> You may have noticed ``#!/usr/bin/env rdmd`` in the source file. 
 T> This is for Nix* based operation systems. When the file has executable permissions, it allows it to execute. Without directly calling rdmd/dmd.
