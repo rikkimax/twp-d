@@ -39,15 +39,15 @@ T> **Debugging the PATH variable**
 T>
 T> 1. Restart or relogin to the shell you are using. For Windows this shell would be the cmd prompt. But you would need to log out of Windows completely to relogin to it.
 T> 2. For Windows use:
-T> 
-T>     ```sh
-T>     echo %PATH%
-T>     ```
-T>     To see your PATH variable's contents. Each entry will be seperated with a semicolon (;).
-T>     For Nix* (Linux/OSX) use:
-T>   
-T>     ```sh
-T>     echo $PATH
-T>     ```
-T>     Each entry will be seperated by a colon (:).
+T>    
+T>    ```sh
+T>    echo %PATH%
+T>    ```
+T>    To see your PATH variable's contents. Each entry will be seperated with a semicolon (;).
+T>    For Nix* (Linux/OSX) use:
+T>    
+T>    ```sh
+T>    echo $PATH
+T>    ```
+T>    Each entry will be seperated by a colon (:).
 T> 3. To add a directory specifically dmd/bin to the ``PATH`` variable is dependent upon your OS. So it won't be gone into here.
