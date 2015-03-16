@@ -3,7 +3,6 @@
 
 Programs are grouped into two different layers. The first layer, which you already understand well is a file. For programming D it is refered to as a *module*. The second is internal to a file and that is a function.
 
-
 **Exercises:**
 
 Create two new files.
@@ -30,7 +29,7 @@ Compile and run them by adding them both to e.g. rdmd/dmd.
 ```sh
 rdmd excodegroup1.d excodegroup2.d
 ```
-or:
+Or:
 
 ```sh
 dmd excodegroup1.d excodegroup2.d -ofexcodegroup
