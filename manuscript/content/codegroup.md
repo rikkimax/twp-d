@@ -3,6 +3,7 @@
 
 Programs are grouped into two different layers. The first layer, which you already understand well is a file. For programming D it is refered to as a *module*. The second is internal to a file and that is a function.
 
+
 **Exercises:**
 
 Create two new files.
@@ -44,6 +45,7 @@ For Windows users, note that it has the exe extension for the generated binary.
 4. Make the main function output "I'm the main one!".
 5. If you remove the bracket around the quoted text in myfunction with a space between writeln and myfunction. Does it still work?
 
+{pagebreak}
 **Theory:**
 
 As stated in the summary, there are two grouping layers in D. A module and a function.
