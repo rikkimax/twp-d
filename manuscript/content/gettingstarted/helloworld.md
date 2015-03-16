@@ -48,7 +48,6 @@ So far you should have created a directory which your command line shell is curr
 
 Before executing code, you need to compile it. There are two ways to compile and run it. The harder way:
 
-{line-numbers=off}
 ```sh
 dmd helloworld.d
 ./helloworld
