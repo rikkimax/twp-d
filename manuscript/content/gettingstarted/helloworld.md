@@ -1,11 +1,16 @@
 {pagebreak}
 
 ## Hello world example
-Before starting this ensure that dmd is on your ``PATH`` variable. You can check that it is by running:
+Everything in this chapter uses the command line interface. For Windows this is the command prompt (cmd). On Nix* this is a command line shell.
+
+Before we can write a simple "Hello World" program, we first have to check that the compiler is available to use. To do so we try running it. If it is not found, then it is not on the ``PATH`` variable. When an executable is on your ``PATH`` variable, it can be executed without directly specifying the exact location. You can check that it is by running:
 
 ```sh
 dmd
 ```
+
+If it is not found, you will need to debug your ``PATH`` variable and ensure you have installed dmd correctly.
+
 T> **Debugging the PATH variable**
 T>
 T> 1. Restart or relogin to the shell you are using. For Windows this shell would be the cmd prompt. But you would need to log out of Windows completely to relogin to it.
@@ -23,8 +28,7 @@ T>    ```
 T>    Each entry will be seperated by a colon (:).
 T> 3. To add a directory specifically dmd/bin to the ``PATH`` variable is dependent upon your OS. So it won't be gone into here.
 
-In a command line shell (on Windows the cmd prompt).
-Assuming it is, now it is time to actually make the file. In a directory that is easily accesible from the command prompt and a text editor create:
+Once your command line shell can use dmd, create a directory that you can access resonably easily. Using a text editor under this directory create the given code:
 
 {title="helloworld.d",lang=D}
 ```
@@ -35,6 +39,8 @@ void main() {
 	writeln("Hello World!");
 }
 ```
+
+For Nix* users you may want to consider a text editor such as nano or vim. To ease going between console and editing the files. Nano is by far the easiest to use.
 
 {pagebreak}
 There are two ways to compile and run it. The harder way:
