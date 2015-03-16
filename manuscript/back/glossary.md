@@ -27,3 +27,4 @@
 * OOP: Object Orientated Programming
 
    An advanced way to represent information hierachies in memory.
+* Open source: Source code available for reading, modification

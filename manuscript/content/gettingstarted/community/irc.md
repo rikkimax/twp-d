@@ -9,6 +9,11 @@ Services are systems that provide user authentication and management of the IRC 
 
 Operators or opers for short, are people who administrate the network in general. Any one of them can perform an IP ban or do anything to you upon the network as they wish.
 
+Of note is the MIRC IRC client[^MIRCurl]. It is one of the most common (trialware $20 USD) IRC client. There are others such as KVirc[^KVircurl] which is open source.
+
+[^MIRCurl]: http://www.mirc.com/index.html
+[^KVircurl]: http://www.kvirc.net/
+
 {pagebreak}
 There are two methods for communicating within an IRC network:
 
@@ -31,3 +36,8 @@ There are many services available on an IRC network. Some may have more then oth
 * Memos (messages to possibly offline users)
 * Custom host name, provides a custom host name associated with your nickname instead of your IP address
 * Bot services, custom nicknames and joined to your channel for the different services. More commonly just for channel management
+
+It is very common for operators of a channel to use bots and scripts to control the channel. As well as provide helpful information. Such information can simply getting the poster and name of a youtube video from its link. Or it could be given a wikipedia url get a short description of the content.
+There are other such uses such as notifications for external events.
+
+One form of spam or "spammy" messages is where a large amount of emotes and colour may be used. The amount at which is considered spam, is determined by the operators for the channel.
