@@ -4,6 +4,7 @@
 Programs are grouped into two different layers. The first layer, which you already understand well is a file. For programming D it is refered to as a *module*. The second is internal to a file and that is a function.
 
 **Exercises:**
+
 Create two new files.
 
 {title="excodegroup1.d"}
@@ -24,6 +25,7 @@ void main() {
 
 Compile and run them by adding them both to e.g. rdmd/dmd.
 
+{line-numbers=off}
 ```sh
 rdmd excodegroup1.d excodegroup2.d
 ```
@@ -43,6 +45,7 @@ For Windows users, note that it has the exe extension for the generated binary.
 5. If you remove the bracket around the quoted text in myfunction with a space between writeln and myfunction. Does it still work?
 
 **Theory:**
+
 As stated in the summary, there are two grouping layers in D. A module and a function.
 
 - Module:
@@ -59,7 +62,7 @@ As stated in the summary, there are two grouping layers in D. A module and a fun
 
    Within source files, some languages like to read from top down as if they were instructions to execute. D is not one of these languages. D on the other hand is known as a c style language. It works by grouping instructions into functions. Per application there is one entry point which is a function. In the other languages its a bit like thinking a function wraps around the entire file to be executed and is the entry point.
 
-** Previous theory:**
+**Previous theory:**
 
 Lets take a look at the previous example (excluding the shebang line):
 
