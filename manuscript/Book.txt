@@ -18,6 +18,8 @@ content/gettingstarted/community/mailingList.md
 content/gettingstarted/community/irc.md
 content/gettingstarted/community/beingAProfessional.md
 
+content/gettingstarted/helloworld.md
+
 
 backmatter.txt
 back/glossary.md

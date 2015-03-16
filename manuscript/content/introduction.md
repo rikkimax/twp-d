@@ -2,7 +2,6 @@
 Getting started on how to program is a difficult task. Do not be afraid. There is a lot of hard work involved, but this book is written to help make this journey relatively easy. The general flow of this book is as follows:
 
 1. Before diving in and writing code, tools are required. Specifically a compiler toolchain. After a simple test script to ensure it is working for you, an informative introduction to profesionalism and online communities.
-
 2. Grouping of code "functions" is introduced. This forms the very basics of how code is executed.
 3. Variables, the way information is stored and how to manipulate them.
 4. Your environment. Discusses the command line and the environment around them. This introduces basic interfaces to communicating with the user as well a bit about how operating systems actually work.
