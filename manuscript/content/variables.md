@@ -99,6 +99,7 @@ If we concactenate on 8:
 It it possible to get a value from an array by using the squere brackets with the index inside on the variable. Like so ``name[0] ``. Remember this also applies to strings.
 
 **Previous theory:**
+
 Previously we looked at functions. It was said that they had arguments, but not say how they are defined. They are variables but instead of them being defined on a seperate line they are in the function declaration:
 
 ```D
