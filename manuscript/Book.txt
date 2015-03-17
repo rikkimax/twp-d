@@ -22,7 +22,9 @@ content/gettingstarted/helloworld.md
 
 
 content/codegroup.md
-content/variables.md
+content/variables/introduction.md
+content/variables/primitives.md
+content/variables/arrays.md
 
 backmatter.txt
 back/glossary.md

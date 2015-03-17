@@ -9,6 +9,8 @@ Create two new files.
 
 {title="excodegroup1.d"}
 ```D
+module excodegroup1;
+
 void myfunction() {
     writeln("Hi from myfunction!");
 }
@@ -58,7 +60,7 @@ As stated in the summary, there are two grouping layers in D. A module and a fun
 
    As an example of this, you will find ``std.stdio.d`` source code in the phobos repository on Github[^phobosStdStdioFile]. Do not be afraid at looking at the source code for the standard library. It may be beyond you, but you will learn a lot from it.
 
-   While in the D community you may see ``.di`` files. These are similar to ``.d`` files but they do not contain source code. Only the definitions.
+   While in the D community you may see ``.di`` files. These are similar to ``.d`` files except that they do not contain actual source code. Only the definitions to it.
 - Function
 
    Within source files, some languages like to read from top down as if they were instructions to execute. D is not one of these languages. D on the other hand is known as a c style language. It works by grouping instructions into functions. Per application there is one entry point which is a function. In the other languages its a bit like thinking a function wraps around the entire file to be executed and is the entry point.
