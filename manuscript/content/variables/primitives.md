@@ -149,7 +149,7 @@ Don't worry too much about the bitwise operators, they are a more advanced and l
 
 You can use the operators with assignment statements. Like so ``end result &= 0b0100``. Where the LHS (Left Hand Side) will be the LHS of the expression and RHS (Right Hand Side) is the RHS of the expression.
 
-
 **Previous theory:**
 
-sdf
+In all previous examples we have used the function ``writeln`` to output some information to the command line. In relation to this, it can take (almost) any type and turn it into text for output. Internally ``writeln`` uses some very advanced language features to determine the types being passed into it. Otherwise known as generics or meta-programming.
+Primitive types can safely be passed and always be outputed to the command line via it.
