@@ -12,8 +12,10 @@ Primitive types can be categoriesed under:
 * Whole numbers
     E.g. 5, 7, 10, 2000
     * Signed
+
         Can contain negative values
     * Unsigned
+
         Cannot contain negative values, but has a larger maximum
 * Decimal numbers
     E.g. 5.2, 11.9, 8, 802, -7111
@@ -36,6 +38,7 @@ If the type works over many bytes, the labled (MSB which is 7) will be the last 
 
 A bit is a single boolean value (true or false). A byte contains eight of these. For a positive byte it would be represented as `` 0b00000000`` and for a negative one ``0b10000000``. You will notice that the MSB is next to the 0b. This is the D byte using bit literal syntax.
 
+{pagebreak}
 Common type sizes are:
 
 **Whole numbers:**
@@ -69,11 +72,13 @@ There are many operators that are commonly used to manipulate these types. They 
 
 There are other types of statements available, but for now assignment is most important for variables/types. To understand the basics of this statement, lets look at what you should already know, Algerbra.
 
+{line-numbers=off}
 ```
 7 = 4 + 3
 ```
 At the base level it reads as:
 
+{line-numbers=off}
 ```
 end result = expression
 ```
@@ -83,7 +88,9 @@ Note that the *end result* must be a variable name.
 
 **Expressions:**
 
-Unlike statements, expressions do not assign to a variable. They come in the format of ``4 + 3`` or `` 100 * variable ``.
+Unlike statements, expressions do not assign to a variable.
+
+They come in the format of ``4 + 3`` or `` 100 * variable ``.
 
 You may have noticed that in statements, they use an expression to get the result.
 
