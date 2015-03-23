@@ -28,3 +28,5 @@
 
    An advanced way to represent information hierachies in memory.
 * Open source: Source code available for reading, modification
+* MSB: Most Significant Bit
+* LSB: Least Significant Bit
