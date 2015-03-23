@@ -1,3 +1,5 @@
+{pagebreak}
+
 ## Primitive data types
 
 **Exercises:**
@@ -27,7 +29,7 @@ void main() {
 5. Again try running it!
 6. Try changing the multiplication operator to another now.
 7. That was all pretty easy stuff, so lets move into harder. Change the ``7`` to ``8.1``, will it compile?
-8. What happens if ``int`` is changed to ``float`?
+8. What happens if ``int`` is changed to ``float``?
 
 **Theory:**
 
@@ -63,7 +65,6 @@ If the type works over many bytes, the labled (MSB which is 7) will be the last 
 
 A bit is a single boolean value (true or false). A byte contains eight of these. For a positive byte it would be represented as `` 0b00000000`` and for a negative one ``0b10000000``. You will notice that the MSB is next to the 0b. This is the D byte using bit literal syntax.
 
-{pagebreak}
 Common type sizes are:
 
 **Whole numbers:**
