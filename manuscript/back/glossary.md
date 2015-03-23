@@ -30,3 +30,5 @@
 * Open source: Source code available for reading, modification
 * MSB: Most Significant Bit
 * LSB: Least Significant Bit
+* LHS: Left Hand Side
+* RHS: Right Hand Side
