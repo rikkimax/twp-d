@@ -21,14 +21,14 @@ Primitive types can be categoriesed under:
 For signed values the difference at the byte level is as follows:
 Where LSB is Less Significant Bit and MSB is Most Significant Bit. Don't worry about this, it is to do with the endianness of the cpu.
 
-> [0]: (LSB) value
-> [1]: value
-> [2]: value
-> [3]: value
-> [4]: value
-> [5]: value
-> [6]: value
-> [7]: (MSB) sign
+> 0: (LSB) value
+> 1: value
+> 2: value
+> 3: value
+> 4: value
+> 5: value
+> 6: value
+> 7: (MSB) sign
 
 If the type works over many bytes, the labled (MSB which is 7) will be the last bit in all of the bytes.
 
