@@ -1,8 +1,33 @@
 ## Primitive data types
 
 **Exercises:**
+Lets start off with some code:
 
-sdf
+```D
+import std.stdio;
+
+void main() {
+    writeln(5 + 5);
+}
+```
+
+1. So first run it!
+2. Change the values in writeln
+3. Try changing the plus to other operators like multiplication and devide. Take a look at the table in theory for all the different kinds of operators!
+4. All the above showed off what expressions are. Now lets move on to variables themselves. Using the below code to getting started:
+
+     ```D
+     import std.stdio;
+
+     void main() {
+         int x = 7 * 2;
+         writeln(x);
+     }
+     ```
+5. Again try running it!
+6. Try changing the multiplication operator to another now.
+7. That was all pretty easy stuff, so lets move into harder. Change the ``7`` to ``8.1``, will it compile?
+8. What happens if ``int`` is changed to ``float`?
 
 **Theory:**
 
@@ -55,6 +80,8 @@ Common type sizes are:
 
 There is quite often be other primitive types at the same size as a byte. There will commonly be char (character) and bool (boolean) which is true/false.
 
+In D atleast, the whole numbers have unsigned equilivant, just prepend a u on the front to get the type name. For example ``ubyte``, ``ushort`` and ``uint``.
+
 Not all programming languages support both signed and unsigned versions of whole numbers. Java as an example only supports signed versions.
 
 All primitive types (in D atleast) will support the following functions:
@@ -96,6 +123,7 @@ You may have noticed that in statements, they use an expression to get the resul
 
 Expressions can be as simple as a single variable or a value. They can also be pretty complex, but lets not go into that. The main ones you will be using are:
 
+{title="Operators for primitive types"}
 | Symbol | Function                |
 |-------------|---------------------------|
 | +           | Addition               |
