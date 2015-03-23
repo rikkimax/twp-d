@@ -20,3 +20,5 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/gettingstarted/installing.md
 * content/gettingstarted/community/introduction.md
 * content/gettingstarted/community/D.md
+* content/variables/introduction.md
+* content/variables/arrays.md

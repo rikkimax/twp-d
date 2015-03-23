@@ -1,6 +1,6 @@
 {pagebreak}
 
-## Arrays
+## Arrays and pointers
 **Exercises:**
 
 sdf
