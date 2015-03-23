@@ -21,21 +21,16 @@ Primitive types can be categoriesed under:
 For signed values the difference at the byte level is as follows:
 Where LSB is Less Significant Bit and MSB is Most Significant Bit. Don't worry about this, it is to do with the endianness of the cpu.
 
-> 0: (LSB) value
-
-> 1: value
-
-> 2: value
-
-> 3: value
-
-> 4: value
-
-> 5: value
-
-> 6: value
-
-> 7: (MSB) sign
+| Offset | Alias name | Alternative uses           |
+|----------|------------------|-----------------------------------|
+| 0        | LSB             |                                     |
+| 1        |                    |                                     |
+| 2        |                    |                                     |
+| 3        |                    |                                     |
+| 4        |                    |                                     |
+| 5        |                    |                                     |
+| 6        |                    |                                     |
+| 7        | MSB            | Sign, + is zero, - is one |
 
 If the type works over many bytes, the labled (MSB which is 7) will be the last bit in all of the bytes.
 
@@ -66,7 +61,7 @@ All primitive types (in D atleast) will support the following functions:
 * sizeof
 * init
 
-Max and min should be pretty straight forward what they do. Sizeof is an interesting little feature. Remember those numbers beside the type listed above? Well it return them. It is the size that type takes within memory. Init on the other hand is not so simple. It returns the default initialized version of those values. In D atleast for whole numbers this will be 0. But for decimal it will be NaN (Not any Number).
+Max and min should be pretty straight forward with what they do. Sizeof is an interesting little feature. Remember those numbers beside the type listed above? Well it returns them. It is the size that type takes within memory. Init on the other hand is not so simple. It returns the default initialized version of those values. In D atleast for whole numbers this will be 0. But for decimal it will be NaN (Not any Number).
 
 
 
