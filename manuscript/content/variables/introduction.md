@@ -40,12 +40,7 @@ This is a very basic usage of a variable. In the above one, it will almost compl
 4. So again change the text. What happens when you try setting the variable twice? Which text gets outputted?
 5. Instead of ``string``, how about changing it to int. What kind of numbers can be used? Does ``5.7`` work?
 6. Does ``5.7`` work when ``float`` is used as the type?
-7. For the ``string`` type, if you declare it with a value then instead of setting it, use:
-    ```D
-     text ~= " from main";
-    ```
-
-    What does it output?
+7. For the ``string`` type, if you declare it with a value then instead of setting it, use ``text ~= " from main";``. What does it output?
 
 {pagebreak}
 **Theory:**
