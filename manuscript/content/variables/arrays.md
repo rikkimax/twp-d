@@ -147,6 +147,7 @@ alias string = immutable(char)[];
 Don't worry about what immutable means here.
 For reference a string looks like:
 
+{line-numbers=off}
 ```D
 string myString = "something goes here";
 ```
