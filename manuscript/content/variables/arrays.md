@@ -136,3 +136,12 @@ In the previous section on all about primitive types, there was one type (relate
 
 An array can be thought of as simply, a location in memory plus a length. The length is the number of elements but not necessarily the number of bytes allocated and pointed to by the pointer.
 This joining of two values, makes it a complex data type.
+
+Do note that string's atleast in D are just char arrays. Specifically:
+
+{line-numbers=off}
+```D
+alias string = immutable(char)[]
+```
+
+Don't worry about what immutable means here.
