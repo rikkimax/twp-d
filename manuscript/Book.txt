@@ -26,6 +26,12 @@ content/variables/introduction.md
 content/variables/primitives.md
 content/variables/arrays.md
 
+
+content/environment/introduction.md
+content/environment/stdArgs.md
+content/environment/stdIO.md
+
+
 backmatter.txt
 back/glossary.md
 back/references.md
