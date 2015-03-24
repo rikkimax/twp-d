@@ -21,7 +21,7 @@ This is a very basic usage of a variable. In the above one, it will almost compl
 1. Try running it.
 2. Change the text within the quotes.
 
-    > It works just like the first hello world example right?
+    It works just like the first hello world example right?
 
 3. Now how about moving the setting of the variable from on the same line to another.
 
@@ -34,12 +34,18 @@ This is a very basic usage of a variable. In the above one, it will almost compl
         writeln(text);
     }
     ```
-    > By now you probably have realised that all statements end with a semicolon. But definitions of "symbols" such as functions do not.
+
+    By now you probably have realised that all statements end with a semicolon. But definitions of "symbols" such as functions do not.
 
 4. So again change the text. What happens when you try setting the variable twice? Which text gets outputted?
 5. Instead of ``string``, how about changing it to int. What kind of numbers can be used? Does ``5.7`` work?
 6. Does ``5.7`` work when ``float`` is used as the type?
-7. For the ``string`` type, if you declare it with a value then instead of setting it, use: ``text ~= " from main";`` after it. What does it output?
+7. For the ``string`` type, if you declare it with a value then instead of setting it, use:
+    ```D
+     text ~= " from main";
+    ```
+
+    What does it output?
 
 {pagebreak}
 **Theory:**
@@ -66,7 +72,11 @@ void somefunction(string text) {
 ```
 In the above example, somefunction would get called like we did in hello world for writeln. Passing in the value exactly the same. What isn't shown is that you can have multiple arguments defined per function. They are seperated by a comma. Unlike variable definitions normally which must end in a semicolon.
 
-An example of multiple arguments declared is ``void somefunction(string texta, string textb) {``. For the unaware reader, the usage of text with ``string`` data type is completely the authors choice.
+An example of multiple arguments declared is:
+```D
+void somefunction(string texta, string textb) {
+```
+For the unaware reader, the usage of text with ``string`` data type is completely the authors choice.
 
 [^DSupportTypes]: http://dlang.org/type.html
 [^DOperatorOverloads]: http://dlang.org/operatoroverloading.html
