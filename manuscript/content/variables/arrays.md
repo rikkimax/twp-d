@@ -35,7 +35,9 @@ void main() {
     }
    ```
 
-6. So this tilde (~) expression, can it also work with assignment statements? Think ``to ~= expr;``.
+6. So this tilde (~) expression, can it also work with assignment statements?
+
+    Think ``to ~= expr;``.
 
 **Theory:**
 
@@ -84,6 +86,7 @@ There is a new operator for arrays, tilde(~). It's job is to concatenate two arr
 
 Notable information about arrays is that they have a length. In D atleast this can be assigned to. For the purpose of preallocating memory or to release a block of it at once if need be. By this it also extend it.
 
+{pagebreak}
 So the following code:
 
 {line-numbers=off}
