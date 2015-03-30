@@ -127,7 +127,7 @@ Note where the backslash is used in the usage column. If it is prepends an x, th
 | 121 | 0x79 | 'y' | |
 | 122 | 0x7a | 'z' | |
 | 123 | 0x7b | '{' | open squiggly/curly bracket |
-| 124 | 0x7c | '|' | pipe |
+| 124 | 0x7c | '\|' | pipe |
 | 125 | 0x7d | '}' | close squiggly/curly bracket |
 | 126 | 0x7e | '~' | tilde |
 | 127 | 0x7f | \\x7f | |
