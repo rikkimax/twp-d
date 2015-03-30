@@ -25,7 +25,7 @@ content/codegroup.md
 content/variables/introduction.md
 content/variables/primitives.md
 content/variables/arrays.md
-
+content/variables/apply.md
 
 content/environment/introduction.md
 content/environment/stdIO.md
