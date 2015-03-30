@@ -15,4 +15,5 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 15. Tooling
 14. Designing large programs, what can possibly go wrong?
 TODO: adds e.g. design patterns
+TODO: idioms e.g. streams, ranges
 15. What to do after this book?

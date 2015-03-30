@@ -23,3 +23,4 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/environment/introduction.md
 * content/environment/cliArgs.md Think CLI args messages
 * content/environment/stdIO.md Think CLI calculator
+* backmatter/ascii.md
