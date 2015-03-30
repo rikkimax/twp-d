@@ -22,3 +22,4 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/gettingstarted/community/D.md
 * content/variables/apply.md text -> number
 * content/environment/apply.md -> calculator
+* content/environment/variables.md
