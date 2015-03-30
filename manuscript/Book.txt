@@ -28,8 +28,8 @@ content/variables/arrays.md
 
 
 content/environment/introduction.md
-content/environment/cliArgs.md
 content/environment/stdIO.md
+content/environment/cliArgs.md
 
 
 backmatter.txt
