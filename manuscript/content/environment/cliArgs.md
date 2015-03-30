@@ -31,7 +31,7 @@ This is a very simple topic, but is very important for complex user interactivit
 
 A great example of a complex command line arguments interface is the wc program. What this program does is it counts characters/lines in files. This is a very common nix* program.
 
-{width=65%}
+{width=85%}
 ![wc executable help information](images/wc_help.png)
 
 

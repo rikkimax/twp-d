@@ -30,6 +30,7 @@ content/variables/arrays.md
 content/environment/introduction.md
 content/environment/stdIO.md
 content/environment/cliArgs.md
+content/environment/apply.md
 
 
 backmatter.txt

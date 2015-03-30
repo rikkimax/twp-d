@@ -34,6 +34,8 @@ A common layout for each topic is being used where programming discussion and le
 - *Optional:* Quizzes
 - *Optional:* Things to think about (or try out)
 
+Further topics will have an application section to test the learners knowledge from all previous topics. Aimed at pushing the understanding of the recent ones.
+
 This format was chosen to have as much optional content as possible for the first go at it. When learning it is not ideal to learn a whole new topic in one go. Instead it is done in iterations, slowly chipping away at what is not known.
 
 Grouping the summary of the topic and the small exercise are to give the learner the "oh yay, I got it working!" moment up front. Without going too in depth in the theory.
