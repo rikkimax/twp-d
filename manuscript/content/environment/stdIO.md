@@ -1,10 +1,14 @@
+{pagebreak}
+
 ## Standard Input/Output
 **Summary:**
+
 Command line is one of the primary interfaces to a computer. The standard IO (Input/Output) interface provides access to it. This interfaces utilises a stream based idiom.
 
 **Exercises:**
 
 Lets start off with the standard output stream.
+
 ```D
 import std.stdio;
 
@@ -12,6 +16,7 @@ void main() {
 	stdout.writeln("From stdout");
 }
 ```
+
 1. As usual run the program.
 2. Is there any difference if you take away the ``stdout.``?
 3. What about if ``stdout`` is changed to ``stderr``.

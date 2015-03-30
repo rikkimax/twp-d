@@ -28,7 +28,7 @@ content/variables/arrays.md
 
 
 content/environment/introduction.md
-content/environment/stdArgs.md
+content/environment/cliArgs.md
 content/environment/stdIO.md
 
 
