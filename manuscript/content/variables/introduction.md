@@ -44,7 +44,7 @@ This is a very basic usage of a variable. In the above one, it will almost compl
 
 **Theory:**
 
-There are many difference types. Some are in built to the language and some are user defined. In this section, the built in types are being used to introduce variables in general. The built in variable types are seperated out into two categories. Primitives and arrays.
+There are many different types. Some are in built to the language and some are user defined. In this section, the built in types are being used to introduce variables in general. The built in variable types are seperated out into two categories. Primitives and arrays.
 
 Primitives are very simple, they simply wrap a little bit of memory with some set behaviour. On the other hand arrays are rather complex. But they follow a set structure within memory.
 
