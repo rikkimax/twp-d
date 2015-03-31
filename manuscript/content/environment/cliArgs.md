@@ -27,9 +27,9 @@ Like functions, all programs have arguments. In the D programming language you a
 
 These arguments are a string array. The first of which is the programs execution file. In other words itself. The following will be the values afterwards seperated by a space.
 
-This is a very simple topic, but is very important for complex user interactivity over command line. Commonly they will use interfaces that use ``--name=value`` syntax or ``-n v``. Of course value with the equals sign can be optional. Commonly there will be a help flag defined. On Windows this will be ``/?``. Unlike the nix* world, Windows went with a forward slash to represent a flag.
+This is a very simple topic, but is very important for complex user interactivity over command line. Commonly they will use interfaces that use ``--name=value`` syntax or ``-n v``. Of course value with the equals sign can be optional. Commonly there will be a help flag defined. On Windows this will be ``/?``. Unlike the *nix world, Windows went with a forward slash to represent a flag.
 
-A great example of a complex command line arguments interface is the wc program. What this program does is it counts characters/lines in files. This is a very common nix* program.
+A great example of a complex command line arguments interface is the wc program. What this program does is it counts characters/lines in files. This is a very common *nix program.
 
 {width=85%}
 ![wc executable help information](images/wc_help.png)
