@@ -41,7 +41,9 @@ if (<expression>) {
 }
 ```
 Note that when the expression is false, the else branch will execute instead of the first set of statements.
-There can be many else if's but only one if and else per set of if statements.
+
+{pagebreak}
+There can be as many else if's but only one if and else per set of if statements.
 
 ```D
 if (<expression>) {
