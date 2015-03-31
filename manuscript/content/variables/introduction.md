@@ -42,7 +42,6 @@ This is a very basic usage of a variable. In the above one, it will almost compl
 6. Does ``5.7`` work when ``float`` is used as the type?
 7. For the ``string`` type, if you declare it with a value then instead of setting it, use ``text ~= " from main";``. What does it output?
 
-{pagebreak}
 **Theory:**
 
 There are many difference types. Some are in built to the language and some are user defined. In this section, the built in types are being used to introduce variables in general. The built in variable types are seperated out into two categories. Primitives and arrays.
