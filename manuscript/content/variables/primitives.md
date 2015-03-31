@@ -143,6 +143,7 @@ Expressions can be as simple as a single variable or a value. They can also be p
 
 The not operator is special in that it is only for usage on bool. It changes it from, true to false and vice versa. You will never use it for assignment statements. And only on the variable in question.
 
+{pagebreak}
 Logical and, and or. Are special again to boolean expressions only. In that they combine two booleans together.
 
 ```D
