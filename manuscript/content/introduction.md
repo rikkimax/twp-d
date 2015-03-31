@@ -5,6 +5,7 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 2. Grouping of code is introduced. This forms the very basics of how code is executed.
 3. Variables, the way information is stored and how to manipulate them.
 4. Your environment. Discusses the command line and the environment around them. This introduces basic interfaces to communicating with the user as well a bit about how operating systems actually work.
+5. Statements, how code flows and is controlled based upon input.
 7. Structs and unions. Grouping of information in memory to allow for more complex data hierachies.
 8. More advanced form of grouping of information in memory using classes. Otherwise known as Object Orientated Programming (OOP).
 9. A general overview of assembly. How does things really get represented in memory?
