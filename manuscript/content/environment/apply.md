@@ -78,6 +78,7 @@ Lets break things down.
 4. Write out the text that was combined (step 1) to standard output
 5. Read until a new line character(*\n*) is read from standard input and assign it into a variable which will be used in step 3
 
+{pagebreak}
 **Exercises:**
 
 1. Output the line that was retrieved back to the user via standard output in the while loop. So that the usage might look like:
