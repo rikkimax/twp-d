@@ -18,3 +18,5 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 TODO: adds e.g. design patterns
 TODO: idioms e.g. streams, ranges
 15. What to do after this book?
+
+TODO: doing other things e.g. sleeping is good to solve problems!

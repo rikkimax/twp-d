@@ -14,7 +14,6 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 ## TODO
 **Pages:**
 
-* images/title_page.jpg
 * content/introduction.md
 * content/gettingstarted/introduction.md
 * content/gettingstarted/installing.md

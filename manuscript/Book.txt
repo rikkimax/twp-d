@@ -36,6 +36,9 @@ content/statements/introduction.md
 content/statements/flow.md
 
 
+content/structsAndUnions/introduction.md
+
+
 backmatter.txt
 back/glossary.md
 back/ascii.md
