@@ -42,6 +42,7 @@ Methods can have special properties. The two most important are static and opera
 Static methods do not contain a context argument unlike normal functions.
 Operator overload methods, are methods that change certain features of the language to call it instead of the language predefined behaviour.
 
+{pagebreak}
 Structs and Unions can be initiated like primitive variables in that they do not need any explicit setting. But to do so is pretty simple.
 
 ```D
@@ -75,6 +76,7 @@ MyStruct myStruct = MyStruct(4);
 ```
 Would have assigned ``x`` *4*. But now it would assign ``z`` *4*
 
+{pagebreak}
 There is another special function related to constructors. Destructors are the oposite of constructors. They execute when the type will be removed from memory. A destructor like a costructor has no return type. But unlike a constructor it does not have arguments, yet it still has the argument brackets.
 Simple test example:
 
