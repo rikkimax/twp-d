@@ -40,7 +40,10 @@ The first application that you will be applying your new knowledge to is a simpl
    ```
    Don't forget that you will need to slice the array to ignore the first element. ``args[1 .. $]``
 
-## CLI args and standard input
+{pagebreak}
+### CLI args and standard input
+**Summary:**
+
 Lets put some of the information together to create a little application that will test your knowledge of the difference between command line arguments and the standard input stream.
 
 {title="applyCliStdIn.d"}
@@ -79,7 +82,6 @@ Lets break things down.
 4. Write out the text that was combined (step 1) to standard output
 5. Read until a new line character(*\n*) is read from standard input and assign it into a variable which will be used in step 3
 
-{pagebreak}
 **Exercises:**
 
 1. Output the line that was retrieved back to the user via standard output in the while loop. So that the usage might look like:
@@ -95,7 +97,8 @@ Lets break things down.
 3. Use a second argument, to prepend the output(*some text*).
 4. Make 'stop' be case sensitive. What about changing the word used to stop?
 
-## Guess a number
+{pagebreak}
+### Guess a number
 **Summary:**
 
 Guess a number application is pretty simple. So lets look at its interface:
@@ -135,7 +138,7 @@ if max equals min then
 		output "You cheated!"
 ```
 
-T> ### Tips for making the guess a number program
+T> #### Tips for making the guess a number program
 T>
 T> 1. Use ``std.conv : to`` to convert a string to a number
 T>     
