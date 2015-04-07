@@ -41,6 +41,7 @@ The first application that you will be applying your new knowledge to is a simpl
    Don't forget that you will need to slice the array to ignore the first element. ``args[1 .. $]``
 
 {pagebreak}
+
 ### CLI args and standard input
 **Summary:**
 
@@ -98,6 +99,7 @@ Lets break things down.
 4. Make 'stop' be case sensitive. What about changing the word used to stop?
 
 {pagebreak}
+
 ### Guess a number
 **Summary:**
 
