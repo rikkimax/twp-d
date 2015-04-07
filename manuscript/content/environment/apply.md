@@ -1,7 +1,7 @@
 {pagebreak}
 
 ## Apply your knowledge
-The first application that you will apply your new knowledge to is a simple calculator. It will read in a few values via the command line arguments and output to standard output for the result.
+The first application that you will be applying your new knowledge to is a simple calculator. It will read in a few values via the command line arguments and output to standard output for the result.
 
 1. Start with a nice main function, along with importing ``std.stdio``.
 2. You will now need a new special function from ``std.conv`` called *to*. It is quite an advance one. So don't worry too much about how it is used.

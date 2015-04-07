@@ -3,7 +3,7 @@
 ## Command line arguments
 **Summary:**
 
-Every program have arguments. These arguments are used to tell the program who it is and what any calling programs wants to pass to it. 
+Every program has arguments. These arguments are used to tell the program who it is and what the calling program wants to pass to it. 
 
 **Exercises:**
 

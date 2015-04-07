@@ -72,5 +72,5 @@ There are many more escape characters available. Even support color, formatting 
 
 **Previous theory:**
 
-In previous code examples, *writeln* is used to output some text to the command line. It outputs it to a stream called stdout or otherwise known as standard output. This stream allows writing with some escapes, one of these is ``\n`` other wise known as new line character. In decimal it is the number 10.
+In previous code examples, *writeln* was used to output some text to the command line. It outputs it to a stream called stdout or otherwise known as standard output. This stream allows writing with some escapes, one of these is ``\n`` other wise known as new line character. In decimal it is the number 10.
 There are other standard streams. Error (Err) and Input (in) are the other two. There purpose is fairly straight forward. Input takes input from command line into the application, Output gives it back to the command line and Error outputs back, but for errors. Input and Output can be combined to give the user information reguarding input before requesting said input.
