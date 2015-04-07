@@ -83,6 +83,7 @@ Lets break things down.
 4. Write out the text that was combined (step 1) to standard output
 5. Read until a new line character(*\n*) is read from standard input and assign it into a variable which will be used in step 3
 
+{pagebreak}
 **Exercises:**
 
 1. Output the line that was retrieved back to the user via standard output in the while loop. So that the usage might look like:
@@ -139,6 +140,12 @@ if max equals min then
 	otherwise
 		output "You cheated!"
 ```
+
+{pagebreak}
+**Exercises:**
+
+1. Turn the pseudo code into D code
+2. Add the ability to say that the guessed number is your number within the while loop
 
 T> #### Tips for making the guess a number program
 T>
