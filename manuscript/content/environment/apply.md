@@ -146,6 +146,8 @@ if max equals min then
 
 1. Turn the pseudo code into D code
 2. Add the ability to say that the guessed number is your number within the while loop
+3. Support changing the range of values using command line arguments
+4. **Hard:** Non whole number support
 
 T> #### Tips for making the guess a number program
 T>
