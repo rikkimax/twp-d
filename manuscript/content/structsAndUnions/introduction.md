@@ -19,6 +19,7 @@ Reflection is the means to gain information about types during runtime. It can a
 
 All types in the D programming language have type information, including primitives. Which is accessed by using:
 
+{line-numbers=off}
 ```D
 writeln(typeid(int).name);
 ```

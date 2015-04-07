@@ -1,6 +1,8 @@
 {pagebreak}
 
 ## Apply your knowledge
+**Summary:**
+
 The first application that you will be applying your new knowledge to is a simple calculator. It will read in a few values via the command line arguments and output to standard output for the result.
 
 1. Start with a nice main function, along with importing ``std.stdio``.
@@ -20,24 +22,23 @@ The first application that you will be applying your new knowledge to is a simpl
    Using the code ``to!float(<string>)`` to turn a string into a float value. Lets get the two arguments as float values. Perhaps assign them to there own variables?
 4. Add the two float values in an expression. Following this output the resulting value to standard output using ``writeln``.
 
-G> ### Tasks for you to do!
-G> These are more advanced topics, most likely requiring you to go further along in the book.
-G>
-G> 1. The if statement, check if args has arguments in it (remember ignore first element!).
-G>
-G>     ```D
-G>       if (<boolean expression>) {
-G>           <on true statements>
-G>       }
-G>     ```
-G> 2. The foreach statement, allow for multiple (unknown values).
-G>
-G>     ```D
-G>       foreach(type name; array) {
-G>           <per element of array statements>
-G>       }
-G>     ```
-G>     Don't forget that you will need to slice the array to ignore the first element. ``args[1 .. $]``
+**Exercises:**
+
+1. The if statement, check if args has arguments in it (remember ignore first element!).
+
+    ```D
+     if (<boolean expression>) {
+         <on true statements>
+     }
+    ```
+2. The foreach statement, allow for multiple (unknown values).
+
+    ```D
+     foreach(type name; array) {
+         <per element of array statements>
+     }
+   ```
+   Don't forget that you will need to slice the array to ignore the first element. ``args[1 .. $]``
 
 ## CLI args and standard input
 Lets put some of the information together to create a little application that will test your knowledge of the difference between command line arguments and the standard input stream.

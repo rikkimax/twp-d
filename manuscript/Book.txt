@@ -26,14 +26,15 @@ content/variables/introduction.md
 content/variables/primitives.md
 content/variables/arrays.md
 
+
+content/statements/introduction.md
+content/statements/flow.md
+
+
 content/environment/introduction.md
 content/environment/stdIO.md
 content/environment/cliArgs.md
 content/environment/apply.md
-
-
-content/statements/introduction.md
-content/statements/flow.md
 
 
 content/structsAndUnions/introduction.md
