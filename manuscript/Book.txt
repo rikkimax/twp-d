@@ -37,7 +37,8 @@ content/statements/flow.md
 
 
 content/structsAndUnions/introduction.md
-
+content/structsAndUnions/structs.md
+content/structsAndUnions/unions.md
 
 backmatter.txt
 back/glossary.md
