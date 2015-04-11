@@ -21,28 +21,7 @@ content/gettingstarted/community/beingAProfessional.md
 content/gettingstarted/helloworld.md
 
 
-content/codegroup.md
-content/variables/introduction.md
-content/variables/primitives.md
-content/variables/arrays.md
-
-
-content/statements/introduction.md
-content/statements/flow.md
-
-
-content/environment/introduction.md
-content/environment/stdIO.md
-content/environment/cliArgs.md
-content/environment/apply.md
-
-
-content/structsAndUnions/introduction.md
-content/structsAndUnions/structs.md
-content/structsAndUnions/unions.md
-
 backmatter.txt
 back/glossary.md
-back/ascii.md
 back/references.md
 

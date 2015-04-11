@@ -139,3 +139,38 @@ while(i < int.max) {
 
 The type int isn't the only type a for loop can work with. They work with any primitive type. The starting value (0 in this case) and the maximum number (int.max) are completely up to the end developer and may be variables/expressions. The number to increase per is also arbituary. It could just as easily be ``i += 2``.
 
+{pagebreak}
+There is one other loop based upon the for loop. It is called foreach. A foreach statement is quite a lot more advanced than a for loop. In that it has built in behaviour for arrays and can use external functions to change it.
+
+First a simple example:
+
+```D
+foreach(value; [1, 2, 3]) {
+	writeln(value);
+}
+```
+
+It will output to standard output, three lines. With the values "1", "2" and "3".
+Notice how there is no type specified for value? This is because based upon the array. You can of course manually specify it like so:
+
+```D
+foreach(int value; [1, 2, 3]) {
+	writeln(value);
+}
+```
+
+This can be broken down into a while loop:
+
+```D
+int[] values = [1, 2, 3];
+size_t i = 0;
+
+while(i < values.length) {
+	writeln(values[i]);
+	i++;
+}
+```
+
+If you choose to use the custom external behaviour method using functions, take a look into operator overload *opApply*[^OpApplyDocs] and ranges. Ranges are described under the idioms section of this book.
+
+[^OpApplyDocs]: http://dlang.org/statement.html#ForeachStatement
