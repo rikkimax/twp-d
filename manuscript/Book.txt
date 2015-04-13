@@ -46,6 +46,13 @@ content/structsAndUnions/structs.md
 content/structsAndUnions/unions.md
 content/structsAndUnions/allocation.md
 
+
+content/oop/introduction.md
+content/oop/classes.md
+content/oop/designPatterns.md
+content/oop/pitfalls.md
+
+
 backmatter.txt
 back/glossary.md
 back/ascii.md
