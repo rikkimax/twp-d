@@ -1,4 +1,4 @@
-# The way to program - Lets think like a D(eveloper)
+# The way to program - Let's think like a D(eveloper)
 
 This book teaches programming by using referential technique for concepts and ideas. Instead of teaching the topics them selves. Aka refering to concepts and ideas primarily already learnt.
 It is available in PDF, MOBI and EPUB versions at [leanpub](https://leanpub.com/twp-d) (non free).
