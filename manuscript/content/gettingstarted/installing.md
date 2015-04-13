@@ -73,7 +73,7 @@ This installs dub.
 
 {pagebreak}
 
-#### Installing visual studio
+#### Installing Visual Studio
 Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstalling dmd so it auto configures to use it.
 
 {width=75%}
