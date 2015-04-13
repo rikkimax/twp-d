@@ -18,28 +18,28 @@ This installs dmd with only 32bit support on Windows.
 {width=75%}
 ![](images/gettingStarted/windows/1.png)
 
-{width=75%,title="Download the installer (exe) for Windows"}
+{width=75%, title="Download the installer (exe) for Windows"}
 ![](images/gettingStarted/windows/2.png)
 
 {width=75%}
 ![](images/gettingStarted/windows/3.png)
 
-{width=75%,title="Allow program to run as administrator"}
+{width=75%, title="Allow program to run as administrator"}
 ![](images/gettingStarted/windows/4.png)
 
 {width=75%}
 ![](images/gettingStarted/windows/5.png)
 
-{width=75%,title="No need to change anything"}
+{width=75%, title="No need to change anything"}
 ![](images/gettingStarted/windows/6.png)
 
 {width=75%}
 ![](images/gettingStarted/windows/7.png)
 
-{width=75%,title="The warnings are benign, follow other instructions to get mentione software"}
+{width=75%, title="The warnings are benign, follow other instructions to get mentione software"}
 ![](images/gettingStarted/windows/8.png)
 
-{width=75%,title="This is installed automatically with Visual Studio"}
+{width=75%, title="This is installed automatically with Visual Studio"}
 ![](images/gettingStarted/windows/9.png)
 
 {width=75%}
@@ -56,13 +56,13 @@ This installs dub.
 {width=75%}
 ![](images/gettingStarted/windows/dub-2.png)
 
-{width=75%,title="Allow to run as administrator"}
+{width=75%, title="Allow to run as administrator"}
 ![](images/gettingStarted/windows/dub-3.png)
 
 {width=75%}
 ![](images/gettingStarted/windows/dub-4.png)
 
-{width=75%,title="Defaults are fine, no need to change anything"}
+{width=75%, title="Defaults are fine, no need to change anything"}
 ![](images/gettingStarted/windows/dub-5.png)
 
 {width=75%}
@@ -97,7 +97,7 @@ Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstal
 {width=75%}
 ![](images/gettingStarted/windows/vs-7.png)
 
-{width=75%,title="If you have already installed dmd, you would have been asked to uninstall it previous to this window"}
+{width=75%, title="If you have already installed dmd, you would have been asked to uninstall it previous to this window"}
 ![](images/gettingStarted/windows/vd-1.png)
 
 {width=75%}
