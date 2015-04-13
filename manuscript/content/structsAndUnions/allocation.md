@@ -1,7 +1,9 @@
+{pagebreak}
+
 ## Allocation
 **Summary:**
 
-TODO: what is it?
+Allocation is the means to store data. Both in format complex data types such as Structs and Unions but also variables within a function body. The primary form to allocate is in RAM.
 
 **Theory:**
 
@@ -14,6 +16,11 @@ The stack is implemented using a concept called LIFO (Last In First Out). Adding
 
 TODO: add table to show this
 
+Structs and Unions are primarily allocated on the stack. Primitive variables are allocated only in registers within function bodies and Arrays are always allocated on the heap.
+
 **Previous theory:**
 
-TODO: registers
+Previously variables within function bodies have been shown and used to manipulate data. These are allocated within registers. They are short lived and swapped around as needed on the CPU.
+
+Structs and Unions have been shown both locally both within function bodies but also as arguments. For small structs and unions taking up only 4-8 bytes. They can be allocated within the stack or even in registers if short lived. 
+But for pointers, including pointers to structs and primitives. They are allocated on the heap. The heap is basically the RAM where as the stack is again the RAM but preallocated to the application.
