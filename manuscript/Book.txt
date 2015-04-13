@@ -48,7 +48,7 @@ content/structsAndUnions/allocation.md
 
 
 content/oop/introduction.md
-content/oop/classes.md
+content/oop/inheritance.md
 content/oop/designPatterns.md
 content/oop/pitfalls.md
 
