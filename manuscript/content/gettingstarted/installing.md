@@ -15,34 +15,34 @@ If you want to be able to generate 64bit binaries install the latest version Vis
 #### Installing dmd
 This installs dmd with only 32bit support on Windows.
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/1.png)
 
-{width=65%}
+{width=75%,title="Download the installer (exe) for Windows"}
 ![](images/gettingStarted/windows/2.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/3.png)
 
-{width=65%}
+{width=75%,title="Allow program to run as administrator"}
 ![](images/gettingStarted/windows/4.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/5.png)
 
-{width=65%}
+{width=75%,title="No need to change anything"}
 ![](images/gettingStarted/windows/6.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/7.png)
 
-{width=65%}
+{width=75%,title="The warnings are benign, follow other instructions to get mentione software"}
 ![](images/gettingStarted/windows/8.png)
 
-{width=65%}
+{width=75%,title="This is installed automatically with Visual Studio"}
 ![](images/gettingStarted/windows/9.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/10.png)
 
 {pagebreak}
@@ -50,25 +50,25 @@ This installs dmd with only 32bit support on Windows.
 #### Installing dub
 This installs dub.
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/dub-1.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/dub-2.png)
 
-{width=65%}
+{width=75%,title="Allow to run as administrator"}
 ![](images/gettingStarted/windows/dub-3.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/dub-4.png)
 
-{width=65%}
+{width=75%,title="Defaults are fine, no need to change anything"}
 ![](images/gettingStarted/windows/dub-5.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/dub-6.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/dub-7.png)
 
 {pagebreak}
@@ -76,43 +76,43 @@ This installs dub.
 #### Installing visual studio
 Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstalling dmd so it auto configures to use it.
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-1.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-2.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-3.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-4.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-5.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-6.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vs-7.png)
 
-{width=65%}
+{width=75%,title="If you have already installed dmd, you would have been asked to uninstall it previous to this window"}
 ![](images/gettingStarted/windows/vd-1.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vd-2.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vd-3.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vd-4.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vd-5.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/windows/vd-6.png)
 
 {pagebreak}
@@ -125,6 +125,8 @@ Dependencies:
 XCode provides the basis infrastructure for dmd on OSX. It is available from the app store for free and can be installed like any other.
 Currently the dmd installation media for OSX is not signed meaning you will be requried to enable non signed installation media. You will be instructed about this when you try to install it.
 
+TODO: OSX needs images
+
 {pagebreak}
 
 ### Linux
@@ -135,10 +137,10 @@ Dependencies:
 
 For debian based distros, you may want d-apt [^DaptRepo]. D-apt is an apt repository that contains D related programs and libraries. For this method of installation you will commonly will want dmd-bin and dub installed at the minimum.
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/ubuntu/1.png)
 
-{width=65%}
+{width=75%}
 ![](images/gettingStarted/ubuntu/2.png)
 
 
