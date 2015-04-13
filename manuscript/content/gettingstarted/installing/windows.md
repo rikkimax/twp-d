@@ -1,6 +1,3 @@
-## Installing
-Along side dmd, it is highly recommended to also install dub[^dubDownload]. Dub is a build manager for the D programming language. You are most likely not going to need it while starting out.
-
 ### Windows
 Dependencies:
 
@@ -115,35 +112,4 @@ Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstal
 {width=75%}
 ![](images/gettingStarted/windows/vd-6.png)
 
-{pagebreak}
-
-### OSX
-Dependencies:
-
-- XCode
-
-XCode provides the basis infrastructure for dmd on OSX. It is available from the app store for free and can be installed like any other.
-Currently the dmd installation media for OSX is not signed meaning you will be requried to enable non signed installation media. You will be instructed about this when you try to install it.
-
-TODO: OSX needs images
-
-{pagebreak}
-
-### Linux
-Dependencies:
-
-- Curl (Remember to get the dev package as well!)
-- build-essential (for e.g. the ld linker)
-
-For debian based distros, you may want d-apt [^DaptRepo]. D-apt is an apt repository that contains D related programs and libraries. For this method of installation you will commonly will want dmd-bin and dub installed at the minimum.
-
-{width=75%}
-![](images/gettingStarted/ubuntu/1.png)
-
-{width=75%}
-![](images/gettingStarted/ubuntu/2.png)
-
-
-[^DaptRepo]: http://d-apt.sourceforge.net
-[^dubDownload]: http://code.dlang.org/download
 [^VisualStudioDownloads]: https://www.visualstudio.com
