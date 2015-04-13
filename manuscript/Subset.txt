@@ -1,4 +1,4 @@
-content/gettingstarted/introduction.md
-content/gettingstarted/platformSupport.md
-content/gettingstarted/installing.md
-
+content/structsAndUnions/introduction.md
+content/structsAndUnions/structs.md
+content/structsAndUnions/unions.md
+content/structsAndUnions/allocation.md

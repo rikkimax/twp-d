@@ -44,6 +44,7 @@ content/environment/apply.md
 content/structsAndUnions/introduction.md
 content/structsAndUnions/structs.md
 content/structsAndUnions/unions.md
+content/structsAndUnions/allocation.md
 
 backmatter.txt
 back/glossary.md

@@ -32,3 +32,5 @@
 * LSB: Least Significant Bit
 * LHS: Left Hand Side
 * RHS: Right Hand Side
+* FIFO: First In First Out
+* LIFO: Last In First Out
