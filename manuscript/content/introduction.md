@@ -19,8 +19,6 @@ TODO: idioms e.g. streams, ranges
 TODO: what kinds of libraries are out there, pro/cons
 15. What to do after this book?
 
-TODO: doing other things e.g. sleeping is good to solve problems!
-
 T> ## Create, Compile and Delete often!
 T> CCD or Create, Compile and Delete often is a technique used to learn programming.
 T> By creating code often, running it then delete you get to try out new techniques and language fetures quickly.
