@@ -27,7 +27,7 @@ A common layout for each topic is being used where programming discussion and le
 
 - Topic title
 - Summary of topic
-- Small exercise based upon the summary
+- *Optional:* Small exercise based upon the summary
 - *Optional:* Break down of theory
 - Actual theory
 - *Optional:* Linking previous theory to current
