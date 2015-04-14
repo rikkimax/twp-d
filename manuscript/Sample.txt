@@ -10,7 +10,12 @@ content/introduction.md
 
 content/gettingstarted/introduction.md
 content/gettingstarted/platformSupport.md
-content/gettingstarted/installing.md
+
+content/gettingstarted/installing/introduction.md
+content/gettingstarted/installing/windows.md
+content/gettingstarted/installing/osx.md
+content/gettingstarted/installing/linux.md
+
 
 content/gettingstarted/community/introduction.md
 content/gettingstarted/community/forum.md
