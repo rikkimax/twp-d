@@ -14,7 +14,7 @@ Some general rules you should live by while in an online community:
 
 The most important thing to remember is to respect others. As long as you respect them and do what they expect you to do as a member of their community you will be accepted. If they do not act respectfully towards you it is a good sign that you should not be interacting with them.
 
-In terms of this book when you want or need help there will be a few ways to get it. Primarily the D.learn newsgroup[^DLearnNewsGroup]. You are not required to register to post upon it.
+In terms of this book when you want or need help there will be a few ways to get it. Primarily the D.learn newsgroup (forum)[^DLearnNewsGroup]. To post on the forum, you are not required to register.
 
 *TODO:* IRC/XMPP
 
