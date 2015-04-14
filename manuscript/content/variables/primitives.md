@@ -79,11 +79,11 @@ Common type sizes are:
 * float : 4
 * double : 8
 
-There is quite often be other primitive types at the same size as a byte. There will commonly be char (character) and bool (boolean) which is true/false.
-
 In D atleast, the whole numbers have unsigned equilivant, just prepend a u on the front to get the type name. For example ``ubyte``, ``ushort`` and ``uint``.
 
 Not all programming languages support both signed and unsigned versions of whole numbers. Java as an example only supports signed versions.
+
+There is one notable form that ``ubyte`` can take and that is a Boolean. Boolean values are a single byte and are either 1 or 0. Where 1 is true and 0 is false. There is an alias for ``ubyte`` called ``char``. But it is specifically meant to represent a single character.
 
 All primitive types (in D atleast) will support the following functions:
 

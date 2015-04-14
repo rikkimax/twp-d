@@ -16,7 +16,7 @@ A great example of a professional institute is IITP[^IITPwebsite]. Almost everyt
 If you are learning by yourself, a profesional institute is probably not a good way to go at this point in time. Instead I would recommend foccussing on getting into some form of online community such as D's to learn from. If you are at an education institute post high school, and a bit further down in your studies then a profesional institute can help you get a job early on. Use the events as a way to network with others. Get to know your local workforce.
 
 #### General rules to live by
-A controversial rule of thumb for software developers is that we are everything to everyone in IT. Need a networker? We're it. Need a tester? We're it. Need that OS reinstalled, we got your backs. Server failing to start a crucial service? We'll get it working.
+A controversial rule of thumb for software developers is that we are everything to everyone in IT. Need a networker? We're it. Need a tester? We're it. Need that OS reinstalled, we got your back. Server failing to start a crucial service? We'll get it working.
 In this way, being a programmer is far more difficult then any other job in IT, as a programmer we may be called upon to learn how to etch a pcb really fast and get the kit already to go. It may not be what you wanted to do in life. If you are able to just do these jobs well without complaining. Perhaps even enjoying it, you may find it to be the most rewarding part of the profesion.
 While this rule of thumb is great for most circumstances, a more concrete list is on the following page.
 
