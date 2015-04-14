@@ -16,6 +16,7 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 14. Designing large programs, what can possibly go wrong?
 TODO: adds e.g. design patterns
 TODO: idioms e.g. streams, ranges
+TODO: paradigms (procedural vs functionsal vs oop)
 TODO: what kinds of libraries are out there, pro/cons
 15. What to do after this book?
 
