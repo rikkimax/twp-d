@@ -1,7 +1,7 @@
 {pagebreak}
 
 ### Internet Relay Chat
-Internet Relay Chat or IRC for short has been with the internet since the dawn of it. Originating from Bulletin Board systems back in the 80's. It features a light weight text based protocol. Enabling anyone to read and write it.
+Internet Relay Chat (IRC) for short has been with the internet since the dawn of it. Originating from Bulletin Board systems back in the 80's. It features a light weight text based protocol. Enabling anyone to read and write it.
 
 When working with it by hand, it is possible to communicate to an IRC server using only a telnet client successfully. Because of this there are IRC clients on everything from an Apple II to a Blackbury smart phone.
 

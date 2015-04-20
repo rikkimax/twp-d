@@ -18,7 +18,7 @@ For connecting to our IRC network, we will be using the client Kvirc. It is avai
 
 You are allowed to use bots on this network, however there are some rules reguarding them.
 Please limit your connections to three at a time at most. It can get you banned if you exceed this.
-There is only chanserv and nickserv in the form of services.
+There is only chanserv and nickserv for services. However you will notice a uncommon one which helps to prevent floodding of the networking.
 
 T> **Tip!** Not working?
 T> These details may become out of date.
