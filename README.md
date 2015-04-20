@@ -15,7 +15,3 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 **Pages:**
 
 * content/introduction.md
-* content/gettingstarted/introduction.md
-* content/gettingstarted/installing.md
-* content/gettingstarted/community/introduction.md
-* content/gettingstarted/community/D.md
