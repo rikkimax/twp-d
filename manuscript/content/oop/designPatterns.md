@@ -1,3 +1,5 @@
+{pagebreak}
+
 ## Design patterns
 **Summary:**
 

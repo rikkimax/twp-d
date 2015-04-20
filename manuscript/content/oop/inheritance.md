@@ -1,3 +1,5 @@
+{pagebreak}
+
 ## Inheritance
 **Summary:**
 
