@@ -12,5 +12,3 @@
 **Quizzes:**
 
 **Things to think about:**
-
-
