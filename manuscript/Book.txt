@@ -1,7 +1,8 @@
 frontmatter.txt
 front/biography.md
-front/howToRead.md
-front/theory.md
+front/howToRead/introduction.md
+front/howToRead/theory.md
+front/howToRead/general.md
 
 
 mainmatter.txt

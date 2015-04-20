@@ -1,4 +1,5 @@
-content/gettingstarted/community/IRC/introduction.md
-content/gettingstarted/community/IRC/details.md
-content/gettingstarted/community/IRC/tutorial.md
-content/gettingstarted/community/IRC/scripting.md
+frontmatter.txt
+front/biography.md
+front/howToRead/introduction.md
+front/howToRead/theory.md
+front/howToRead/general.md
