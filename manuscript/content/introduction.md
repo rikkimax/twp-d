@@ -14,11 +14,11 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 12. Different kinds of programming languages and their uses.
 13. Tooling
 14. Designing large programs, what can possibly go wrong?
-TODO: adds e.g. design patterns
-TODO: idioms e.g. streams, ranges
-TODO: paradigms (procedural vs functionsal vs oop)
-TODO: what kinds of libraries are out there, pro/cons
-15. What to do after this book?
+15. Idioms
+16. Design patterns
+17. Different kinds of libraries are out there, pro/cons
+18. Paradigms (procedural vs functionsal vs oop)
+19. What to do after this book?
 
 T> ## Create, Compile and Delete often!
 T> CCD or Create, Compile and Delete often is a technique used to learn programming.

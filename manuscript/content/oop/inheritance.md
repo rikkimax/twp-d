@@ -13,10 +13,13 @@ Two language features related to inheritance is interfaces[^DLangInterfaces] and
 Casting is not specific to inheritance however the purpose will be clearly seen here.
 
 Casting allows the language think that some data is a different type. While you cannot change an *int* to a class. You can change an unsigned type to a signed type. Also changing smaller primitive types to larger ones.
+
 For classes upcasting to the inherited classes/interfaces is possible. But it is also possible to downcast or explicitly casting to any that you want if you write a special operator overload method. However explicit casting is possible for  structs, unions and classes.
 
 To inherit from another class/interface, use the syntax:
+
 ``class name : <interface/class name> [, <interface name>] {``.
+
 You can inherit from many interfaces, but only one class. The class must be the first one listed. Interfaces like classes can inherit from other interfaces.
 
 ```D
