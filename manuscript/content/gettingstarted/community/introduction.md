@@ -16,6 +16,7 @@ The most important thing to remember is to respect others. As long as you respec
 
 In terms of this book when you want or need help there will be a few ways to get it. Primarily the D.learn newsgroup (forum)[^DLearnNewsGroup]. To post on the forum, you are not required to register.
 
-*TODO:* IRC/XMPP
+We will also be using the IRC network Open and Free Technology Community (OFTC)[^OFTCsite]. Is an IRC network dedicated towards software development. Specifically for open source projects. There is a tutorial under the IRC section on how to connect.
 
 [^DLearnNewsGroup]: http://forum.dlang.org/group/digitalmars.D.learn
+[^OFTCsite]: http://www.oftc.net/

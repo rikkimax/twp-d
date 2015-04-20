@@ -1,4 +1,4 @@
-content/structsAndUnions/introduction.md
-content/structsAndUnions/structs.md
-content/structsAndUnions/unions.md
-content/structsAndUnions/allocation.md
+content/gettingstarted/community/IRC/introduction.md
+content/gettingstarted/community/IRC/details.md
+content/gettingstarted/community/IRC/tutorial.md
+content/gettingstarted/community/IRC/scripting.md

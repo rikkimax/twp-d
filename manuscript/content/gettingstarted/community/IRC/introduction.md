@@ -1,3 +1,5 @@
+{pagebreak}
+
 ### Internet Relay Chat
 Internet Relay Chat or IRC for short has been with the internet since the dawn of it. Originating from Bulletin Board systems back in the 80's. It features a light weight text based protocol. Enabling anyone to read and write it.
 
@@ -14,7 +16,6 @@ Of note is the MIRC IRC client[^MIRCurl]. It is one of the most common (trialwar
 [^MIRCurl]: http://www.mirc.com/index.html
 [^KVircurl]: http://www.kvirc.net/
 
-{pagebreak}
 There are two methods for communicating within an IRC network:
 
 1. Private messages
