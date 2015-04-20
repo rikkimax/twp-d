@@ -1,5 +1,4 @@
-frontmatter.txt
-front/biography.md
-front/howToRead/introduction.md
-front/howToRead/theory.md
-front/howToRead/general.md
+content/oop/introduction.md
+content/oop/inheritance.md
+content/oop/designPatterns.md
+content/oop/pitfalls.md
