@@ -43,7 +43,6 @@ content/statements/flow.md
 content/environment/introduction.md
 content/environment/stdIO.md
 content/environment/cliArgs.md
-content/environment/apply.md
 
 
 content/structsAndUnions/introduction.md
@@ -56,6 +55,12 @@ content/oop/introduction.md
 content/oop/inheritance.md
 content/oop/designPatterns.md
 content/oop/pitfalls.md
+
+
+content/exercises/introduction.md
+content/exercises/cliCalculator.md
+content/exercises/stdioVsCliArgs.md
+context/exercises/guessANumber.md
 
 
 backmatter.txt

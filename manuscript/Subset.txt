@@ -1,4 +1,4 @@
-content/oop/introduction.md
-content/oop/inheritance.md
-content/oop/designPatterns.md
-content/oop/pitfalls.md
+content/exercises/introduction.md
+content/exercises/cliCalculator.md
+content/exercises/stdioVsCliArgs.md
+context/exercises/guessANumber.md

@@ -19,6 +19,7 @@ Getting started on how to program is a difficult task. Do not be afraid. There i
 17. Different kinds of libraries are out there, pro/cons
 18. Paradigms (procedural vs functionsal vs oop)
 19. What to do after this book?
+20. A list of exercises based upon the book's contents to learn from
 
 T> ## Create, Compile and Delete often!
 T> CCD or Create, Compile and Delete often is a technique used to learn programming.
