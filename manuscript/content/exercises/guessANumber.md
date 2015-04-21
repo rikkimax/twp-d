@@ -42,6 +42,8 @@ if max equals min then
 3. Support changing the range of values using command line arguments
 4. **Hard:** Non whole number support
 
+{pagebreak}
+
 **Acceptance criteria:**
 
 This session should be possible where your number is 75.

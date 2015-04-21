@@ -1,4 +1,4 @@
 content/exercises/introduction.md
 content/exercises/cliCalculator.md
 content/exercises/stdioVsCliArgs.md
-context/exercises/guessANumber.md
+content/exercises/guessANumber.md
