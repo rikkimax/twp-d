@@ -1,5 +1,7 @@
 ## General learning technqiues
-There are many different styles of learning[^LearningStyles]. If you haven't already worked out what style works best for you. You should do that.
+There are many different styles of learning[^LearningStyles]. If you haven't already worked out what style works best for you, then follow the given advice.
+
+The primary learning types (very general) are described below. At the very least this list should help point you in the right direction.
 
 * Visual
 
@@ -25,9 +27,10 @@ There are many different styles of learning[^LearningStyles]. If you haven't alr
 
 Most of the comments listed for each learning type, will apply to pretty much everyone. Try out different techniques and remember being social will help you.
 
+Actual techniques used are heavily dependent upon the person. For example the method for writing notes varys from person to person. But generally taking notes will always work for you.
+Programming in of itself generally speaking isn't good for note taking, but technologies and writing of code is. When you program, you are writing documentation. To make it easier on yourself write comments. These comments paired with the code itself forms a note reguarding technology. This is comparable to writing notes on how to solve math problems.
+
 T> **Tip!** Don't memorise
 T> Seriously don't. The best programmers learn ideas and concepts. Most other information can be looked up and applied immediately.
-
-TODO: expand upon this
 
 [^LearningStyles]: http://www.edudemic.com/styles-of-learning/
