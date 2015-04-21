@@ -12,6 +12,7 @@ Guess a number application is pretty simple. Assuming a set number range, the pr
 **Activities:**
 
 The pseudo code for this program is:
+
 ```psuedo
 set max to 100
 set min to 1
