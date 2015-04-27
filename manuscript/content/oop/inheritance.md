@@ -42,6 +42,7 @@ class MyClass : MyInterface {
 ```
 Defined is a class which inherits from an interface.
 
+Example usage of inheritance from an interface.
 ```D
 import std.stdio : writeln;
 
@@ -85,6 +86,7 @@ It should output:
 
 Keep in mind that calling ``Foo.func`` and ``Bar.func`` will look up the pointer to the method during runtime to determine the actual method to call.
 
+{pagebreak}
 **Previous theory:**
 
 Previously we looked at classes and structs. Now lets apply a unique D feature called ``alias this``.
@@ -122,7 +124,10 @@ void main() {
 	myClass2.printIt();
 }
 ```
-In this example *Class2* is shown to contain a field called myNumber yet it is declared in Class1. Essentially *Class2* inherits all the fields and methods that *Class1* has inside itself and it can override *Class1*'s behaviour. A converted version of this using inheritance would be:
+In this example *Class2* is shown to contain a field called myNumber yet it is declared in Class1. Essentially *Class2* inherits all the fields and methods that *Class1* has inside itself and it can override *Class1*'s behaviour.
+
+{pagebreak}
+A converted version of this using inheritance would be:
 
 ```D
 import std.stdio : writeln;
@@ -154,6 +159,8 @@ void main() {
 	myClass2.printIt();
 }
 ```
+
+{pagebreak}
 The major differences between these two are:
 
 **Alias this:**
