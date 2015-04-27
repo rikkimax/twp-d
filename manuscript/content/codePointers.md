@@ -23,7 +23,7 @@ void main() {
 
 1. Run this code, what does it output? Can you change it?
 2. How about adding another free-function that adds instead of multiplies? Replace the assignment to ``myFunction`` it. Does it give the apropriete value?
-3. Lets move on to delegates after function pointers.
+3. Lets move on to delegates after function pointers. First use the new code and run it.
 
     ```D
      struct AStruct {
@@ -43,7 +43,6 @@ void main() {
      }
     ```
 4. Make myFunction pass in an ``int`` as an argument. 
-5. 
 
 **Theory:**
 
@@ -56,4 +55,9 @@ Just like data it is possible to take pointers to functions and methods. A point
 
 The syntax for the type which identifies a function pointer is: `` returnType function(ArgType1, ...) ``. Which is almost identical to a function delcaration except with the usage of function in the place of the name. For a delegate it is almost identical except ``delegate``*(* replaces ``function``*(*.
 
+Within memory a function pointer is just a pointer. However a delegate also has a context pointer or value associated with it. A lot like how arrays work.
+
 **Previous theory:**
+
+Function pointers are merely a pointer to a block of memory. Allocated to potentially an unkown size and cannot be me modified. However they can be used to call functions.
+Delegate pointers are like function pointers in that they can call the method. But they differ in that they contain a context a little like how arrays have a length for a context.
