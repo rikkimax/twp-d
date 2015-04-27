@@ -1,13 +1,21 @@
 # Introduction
-Getting started on how to program is a difficult task. Do not be afraid. There is a lot of hard work involved, but this book is written to help make this journey relatively easy. The general flow of this book is as follows:
+Programming is an exciting subject, even more so when there are other people involved! For this reason, this book will introduce the reader into understanding their potential as a future programmer while keeping it social!
 
-1. Before diving in and writing code, tools are required. Specifically a compiler toolchain. After a simple test script to ensure it is working for you, an informative introduction to profesionalism and online communities.
-2. Grouping of code is introduced. This forms the very basics of how code is executed.
-3. Variables, the way information is stored and how to manipulate them.
-4. Statements, how code flows and is controlled based upon input.
-5. Your environment. Discusses the command line and the environment around them. This introduces basic interfaces to communicating with the user as well a bit about how operating systems actually work.
-7. Structs and unions. Grouping of information in memory to allow for more complex data hierachies.
-8. More advanced form of grouping of information in memory using classes. Otherwise known as Object Orientated Programming (OOP).
+Don't fret if you don't have friends on this journey! Even if you are an introvert you will make some fairly easily. Join the social groups available to you which are listed under *getting started*. The community will help you when you get stuck on this journey, as we all started from the bottom like you are now. The only way to fail, is to not try at all while learning.
+
+Before being able to write any code you need some tools under your belt! These tools are not too difficult to gain or use, unless of course you are running Windows 95! Most of what you need to do is download and install a few programs. Thats about it. There is also some information reguarding how to get help and how to act on those services. You will also need to test your tools (specifically the compiler which makes code runnable!) and don't worry this is not too intense!
+
+Having a working toolchain is an excelllant first step in becomming a programmer. Without one, well the code is practically useless. So with one you can begin in understanding how to make a computer think like you do about data. But that doesn't tell the computer what is in that data. For that you need variables and types! But that doesn't help you if you only have some data understood by the computer in memory. Now on to how to manipulate it using statements and expressions.
+
+Now that you have the ability to manipulate and act on data, you can apply it in a context. Thats right, programs are run with a context. They are given information and have the ability to perform input output based upon it! This will be your entry skill set to any language that you may face in the future.
+In other words, the ability to execute, store, manipulate data and take input/output to the user.
+
+So far data are represented with fairly simple types with the most complex being arrays. Which are really pretty simple in themselves too! Now lets move on to more complex types which essentially just group functions and data together. So in others grouping of some data to make a context for functions to act upon!
+
+Structs and unions may seem simple and awesome, but lets look at making data extend other pieces of data and how to model that. By using Object Orientated Programming (OOP) and inheritance.
+
+
+
 9. Function and delegate pointers. How to pass around functions, to other functions!
 10. Meta programming and attributes. How can I make it do something special based upon some input information?
 11. Operator overloads, making those special statements and expressions do all sort of neat stuff for our own types.
