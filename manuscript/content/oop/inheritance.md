@@ -87,4 +87,86 @@ Keep in mind that calling ``Foo.func`` and ``Bar.func`` will look up the pointer
 
 **Previous theory:**
 
+Previously we looked at classes and structs. Now lets apply a unique D feature called ``alias this``.
+
+```D
+import std.stdio : writeln;
+
+class Class1 {
+	int myNumber;
+	
+	this(int anArgument) {
+		myNumber = anArgument;
+	}
+
+	void printIt() {
+		writeln(myNumber);
+	}
+}
+
+class Class2 {
+	Class1 myClass1;
+	alias myClass1 this;
+	
+	this(int myArgument) {
+		myClass1 = new MyClass1(myArgument);
+	}
+
+	void printIt() {
+		writeln("From Class2: ", myNumber);
+	}
+}
+
+void main() {
+	Class2 myClass2 = new Class2(7);
+	myClass2.printIt();
+}
+```
+In this example *Class2* is shown to contain a field called myNumber yet it is declared in Class1. Essentially *Class2* inherits all the fields and methods that *Class1* has inside itself and it can override *Class1*'s behaviour. A converted version of this using inheritance would be:
+
+```D
+import std.stdio : writeln;
+
+class Class1 {
+	int myNumber;
+	
+	this(int anArgument) {
+		myNumber = anArgument;
+	}
+
+	void printIt() {
+		writeln(myNumber);
+	}
+}
+
+class Class2 : Class1 {
+	this(int myArgument) {
+		myClass1 = new MyClass1(myArgument);
+	}
+
+	override void printIt() {
+		writeln("From Class2: ", myNumber);
+	}
+}
+
+void main() {
+	Class2 myClass2 = new Class2(7);
+	myClass2.printIt();
+}
+```
+The major differences between these two are:
+
+**Alias this:**
+- Only available in D
+- Can be used in structs and classes
+- *Currently* limited to one
+
+**Inheritance:**
+- Limited to classes
+- Available in almost all languages that support classes
+- Supports multiple inherited from
+- Supports interfaces and classes to be inherited from
+- Can only inherit from one class
+- When overriding methods you must annotate with ``override``.
+
 [^DLangInterfaces]: http://dlang.org/interface.html
