@@ -1,4 +1,1 @@
-content/oop/introduction.md
-content/oop/inheritance.md
-content/oop/designPatterns.md
-content/oop/pitfalls.md
+content/codePointers.md
