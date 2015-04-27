@@ -1,5 +1,3 @@
-{pagebreak}
-
 ## Pitfalls
 Unlike most sections to this book, in this one we focus more upon opinions then facts. As such the general format of a topic will be ignored.
 
