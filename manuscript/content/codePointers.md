@@ -1,4 +1,4 @@
-## Pointers to code
+# Pointers to code
 **Summary:**
 
 Like all data, code can have a pointer taken to its place in memory. This allows passing code around to be ran without knowing the true context of where it came from. This is heavily used in functional style programming.
