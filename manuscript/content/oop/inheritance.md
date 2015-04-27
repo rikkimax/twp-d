@@ -159,16 +159,16 @@ void main() {
 	myClass2.printIt();
 }
 ```
-
-{pagebreak}
 The major differences between these two are:
 
 **Alias this:**
+
 - Only available in D
 - Can be used in structs and classes
 - *Currently* limited to one
 
 **Inheritance:**
+
 - Limited to classes
 - Available in almost all languages that support classes
 - Supports multiple inherited from
