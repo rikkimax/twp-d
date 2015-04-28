@@ -66,10 +66,10 @@ void somefunction(string text) {
 ```
 In the above example, somefunction would get called like we did in hello world for writeln. Passing in the value exactly the same. What isn't shown is that you can have multiple arguments defined per function. They are seperated by a comma. Unlike variable definitions normally which must end in a semicolon.
 
-An example of multiple arguments declared is:
-```D
+An example of multiple arguments declared is ``
 void somefunction(string texta, string textb) {
-```
+``.
+
 For the unaware reader, the usage of text with ``string`` data type is completely the authors choice.
 
 [^DSupportTypes]: http://dlang.org/type.html
