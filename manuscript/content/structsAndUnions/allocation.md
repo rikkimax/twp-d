@@ -34,8 +34,6 @@ Structs and Unions are primarily allocated on the stack. Primitive variables are
 
 **Previous theory:**
 
-Previously variables within function bodies have been shown and used to manipulate data. These are allocated within registers. They are short lived and swapped around as needed on the CPU.
+Previously variables within function bodies have been shown and used to manipulate data. These are allocated within registers. They are short lived and swapped around as needed on the CPU. But for pointers, including pointers to structs and primitives. They are allocated on the heap. The heap is basically the RAM, where as the stack is again the RAM but preallocated to the application.
 
-But for pointers, including pointers to structs and primitives. They are allocated on the heap. The heap is basically the RAM where as the stack is again the RAM but preallocated to the application.
-
-Unlike structs which can be allocated on the heap, registers or the stack depending upon usage and size.
+Structs can be allocated on the heap, registers or the stack depending upon usage and size.
