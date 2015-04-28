@@ -49,6 +49,7 @@ Structs and Unions can be initiated like primitive variables in that they do not
 MyStruct myStruct = MyStruct(5);
 writeln(myStruct.myFunction(8));
 ```
+
 The second line's arguments to ``writeln`` has already been shown before. But unlike previous knowledge ``myStruct`` is used as a context to ``myFunction``.
 For the initiation, struct/unions are simply ``type(arguments)``. Normally for arguments they will go into the first variables declared that match the type or that it can implicitly converted to. If you wish to change this behaviour, a constructor can be used.
 A constructor is merely a method with a special name and without a return type.
