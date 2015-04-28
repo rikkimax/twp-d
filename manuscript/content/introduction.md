@@ -14,9 +14,9 @@ So far data are represented with fairly simple types with the most complex being
 
 Structs and unions may seem simple and awesome, but lets look at making data extend other pieces of data and how to model that. By using Object Orientated Programming (OOP) and inheritance.
 
+Now we can see how complex data types can be. Lets take a look into what code really is shall we? Function and delegate pointers allow for executing code out of their original declarations. This style of programming is formally known as functional (although this is a very basic part of it).
 
 
-9. Function and delegate pointers. How to pass around functions, to other functions!
 10. Meta programming and attributes. How can I make it do something special based upon some input information?
 11. Operator overloads, making those special statements and expressions do all sort of neat stuff for our own types.
 12. Different kinds of programming languages and their uses.
