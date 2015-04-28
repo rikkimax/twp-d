@@ -66,6 +66,9 @@ content/exercises/stdioVsCliArgs.md
 content/exercises/guessANumber.md
 
 
+content/meta-programming/introduction.md
+
+
 backmatter.txt
 back/glossary.md
 back/ascii.md
