@@ -31,6 +31,7 @@ Actual techniques used are heavily dependent upon the person. For example the me
 Programming in of itself generally speaking isn't good for note taking, but technologies and writing of code is. When you program, you are writing documentation. To make it easier on yourself write comments. These comments paired with the code itself forms a note reguarding technology. This is comparable to writing notes on how to solve math problems.
 
 T> **Tip!** Don't memorise
+T>
 T> Seriously don't. The best programmers learn ideas and concepts. Most other information can be looked up and applied immediately.
 
 [^LearningStyles]: http://www.edudemic.com/styles-of-learning/
