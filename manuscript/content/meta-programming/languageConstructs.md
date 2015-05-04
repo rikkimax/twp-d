@@ -1,5 +1,8 @@
+{pagebreak}
+
 ## Language Constructs
 **Summary:**
+
 In essence the language supports features which aid in working with meta-programming.
 
 **Theory:**
@@ -42,6 +45,19 @@ static if (HaveMainFunction) {
 	// do something else?
 }
 ```
-Of course in the given example it shows the usage of static if to conditionally include the main function, you would probably be using this with traits instead of an enum to enable/disable features. Normally for this the usage of ``version`` blocks instead. But they are not covered.
+Of course in the given example it shows the usage of static if to conditionally include the main function, you would probably be using this with traits instead of an enum to enable/disable features. Normally for this the usage of ``version`` blocks instead.
 
-TODO: cover version blocks?
+Version blocks are essentially static if's except they are if x is defined. Versions can be specified at the module level or by compiler flags (-version).
+
+```D
+version = MyFeatureX;
+
+version(MyFeatureY) {
+	enum DEFV = 72;
+} else version(MyFeatureX) {
+	enum DEFV = 82;
+} else {
+	static assert(0, "WHAT ARE YOU DOING?");
+}
+```
+Depending upon weather ``MyFeatureY`` is specified to the compiler will determine if ``DEFV`` is *72* or *82*. If for some reason ``MyFeatureX`` is also not specified, then it will error and stop compilation.

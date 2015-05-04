@@ -53,6 +53,3 @@ void main() {
 In this case ``Value`` is used instead of ``MyStruct!float`` but it essentially means the same thing as if the alias was not used.
 
 While the example code uses structs, classes and interfaces would also use them in the exact same way.
-
-TODO: what about templates?
-TODO: how about static if?
