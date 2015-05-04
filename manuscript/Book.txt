@@ -67,10 +67,12 @@ content/exercises/guessANumber.md
 
 
 content/meta-programming/introduction.md
+content/meta-programming/reflection.md
 
 
 backmatter.txt
 back/glossary.md
 back/ascii.md
+back/traits.md
 back/references.md
 

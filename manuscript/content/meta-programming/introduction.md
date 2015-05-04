@@ -1,7 +1,7 @@
 # Meta-programming
 **Summary:**
 
-Arguments to functions are not the only types of arguments in programming. In D there is another form via the use of meta-programming. Essentially its arugments only at compile time. Primarily types.
+Arguments to functions are not the only types of arguments in programming. In D there is another form via the use of meta-programming. Essentially its arguments only at compile time. Primarily types and literals.
 
 **Exercises:**
 
@@ -10,6 +10,7 @@ TODO: do this!
 **Theory:**
 
 Meta-programming or in D commonly referred to as templated code is a way to customize a symbol (class, union, struct, template and mixin template) at compile time by using types and data.
+Symbols are the end types with which classes/structs/unions/free-functions become code in the end binary. They can be templated instances of code, but not the pre templated versions.
 
 In this book, the theory for this subject is limited as it can become very complex and advance fast. Well beyond the understanding of most developers.
 
