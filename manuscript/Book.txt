@@ -60,14 +60,14 @@ content/oop/pitfalls.md
 content/codePointers.md
 
 
+content/meta-programming/introduction.md
+content/meta-programming/reflection.md
+
+
 content/exercises/introduction.md
 content/exercises/cliCalculator.md
 content/exercises/stdioVsCliArgs.md
 content/exercises/guessANumber.md
-
-
-content/meta-programming/introduction.md
-content/meta-programming/reflection.md
 
 
 backmatter.txt
