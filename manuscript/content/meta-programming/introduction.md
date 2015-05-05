@@ -5,7 +5,27 @@ Arguments to functions are not the only types of arguments in programming. In D 
 
 **Exercises:**
 
-TODO: do this!
+```D
+class MyClass(U, V) {
+	U a;
+	V b;
+
+	pragma(msg, U.stringof ~ " " ~ V.stringof);
+}
+
+void main() {
+	import std.stdio : writeln;
+	
+	MyClass!(int, float) clasz = new MyClass!(int, float)(7, 8.1);
+	
+	writeln(clasz.a);
+	writeln(clasz.b);
+}
+```
+
+1. Compile + execute it
+2. Change the class to a struct
+3. Add a constructor for ``MyClass`` with the arguments being of type ``V, U`` instead of ``U, V`` (so when initiated the float comes first).
 
 **Theory:**
 

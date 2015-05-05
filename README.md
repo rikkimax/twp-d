@@ -17,5 +17,3 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 * content/introduction.md
 * content/gettingstarted/community/IRC/tutorial.md
 * content/gettingstarted/community/IRC/scripting.md
-* content/meta-programming/introduction.md
-* content/meta-programming/reflection.md
