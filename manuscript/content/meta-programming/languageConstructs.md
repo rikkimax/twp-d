@@ -29,6 +29,7 @@ void main() {
 ```
 In this example MyTemplateBlock is both the name of the template but also the name of the variable within it. When this happens what ever symbol is called the template name becomes the end symbol for the template.
 
+{pagebreak}
 The last of the features that should be mentioned here is static if. A static if statement is a conditional statement at works at compile time but unlike a regular if statement it cna exist out of a function body.
 
 ```D
@@ -47,7 +48,6 @@ static if (HaveMainFunction) {
 ```
 Of course in the given example it shows the usage of static if to conditionally include the main function, you would probably be using this with traits instead of an enum to enable/disable features. Normally for this the usage of ``version`` blocks instead.
 
-{pagebreak}
 Version blocks are essentially static if's except they are if x is defined. Versions can be specified at the module level or by compiler flags (-version).
 
 ```D
