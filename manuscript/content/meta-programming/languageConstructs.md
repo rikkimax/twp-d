@@ -47,6 +47,7 @@ static if (HaveMainFunction) {
 ```
 Of course in the given example it shows the usage of static if to conditionally include the main function, you would probably be using this with traits instead of an enum to enable/disable features. Normally for this the usage of ``version`` blocks instead.
 
+{pagebreak}
 Version blocks are essentially static if's except they are if x is defined. Versions can be specified at the module level or by compiler flags (-version).
 
 ```D

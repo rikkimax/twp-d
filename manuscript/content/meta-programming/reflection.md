@@ -43,6 +43,7 @@ void register(T)() {
 
 Reflection is a very broad topic but in essence it is to enable finding information about a symbol. For this book it only covers capabilities of a language such as Java or C# for usage with meta-programming.
 
+{pagebreak}
 First off differences between Java/C# and D.
 
 Java/C#:
