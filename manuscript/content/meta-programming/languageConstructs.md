@@ -3,7 +3,7 @@
 ## Language Constructs
 **Summary:**
 
-In essence the language supports features which aid in working with meta-programming.
+Templated code is a great starting point. But to actually use it, other language features are required to allow manipulation.
 
 **Theory:**
 

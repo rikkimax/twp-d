@@ -3,11 +3,41 @@
 ## Reflection
 **Summary:**
 
-
+Generating code/acting upon other types during execution is reflection. It allows for knowing all fields, there types ext. As well as methods and there respective information.
 
 **Exercises:**
 
+{title=reflectionBase.d}
+```D
+module reflectionBase;
 
+struct MyType {
+	int field;
+	void method() {
+		import std.stdio : writeln;
+		writeln("Hello from MyType.method");
+	}
+}
+```
+Using *reflectionBase.d* as the type definitions. Lets use another file to showcase reflective capabilities at compile time.
+
+{title=reflection1.d}
+```D
+void main() {
+	import reflectionBase;
+	register!MyType;
+}
+
+void register(T)() {
+	import std.stdio : writeln;
+	writeln(T.stringof);
+}
+```
+
+1. Compile + execute both of the above code.
+2. If you replace ``writeln(`` with ``pragma(msg, ``, what is the difference?
+3. What is the output of ``__traits(allMembers, T)`` within the ``writeln``?
+4. Using the big list at the end of the book of traits, (both standard library and built into the compiler) to experiament with the given type ``T``.
 
 **Theory:**
 
