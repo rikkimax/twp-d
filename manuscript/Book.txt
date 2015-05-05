@@ -24,7 +24,6 @@ content/gettingstarted/community/mailingList.md
 content/gettingstarted/community/IRC/introduction.md
 content/gettingstarted/community/IRC/details.md
 content/gettingstarted/community/IRC/tutorial.md
-content/gettingstarted/community/IRC/scripting.md
 
 content/gettingstarted/community/beingAProfessional.md
 content/gettingstarted/helloworld.md
