@@ -38,6 +38,7 @@ The theory that is covered is basically a little more advanced form of generics.
 
 The definition for usage in a struct is ``struct Name(Type1, [... TypeX]) {``. The name given does matter. It will be an alias for the actual type given. For initiating a type a second set of brackets used that is prefixed with an exclamation mark.
 
+{pagebreak}
 Some basic example code is as follows:
 
 ```D
