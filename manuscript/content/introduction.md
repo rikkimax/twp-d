@@ -18,7 +18,8 @@ Now we can see how complex data types can be. Lets take a look into what code re
 
 Along with functions, code itself can be customized via arguments as well as conditionally compiled. This introduces to the pandoras box which is Compile Time Function Execution (CTFE) as well as meta-programming.
 
-11. Operator overloads, making those special statements and expressions do all sort of neat stuff for our own types.
+A more traditional language feature of OOP is the ability to modify its behaviour with other language features such as assignment. Operator overloading is a fairly simple feature but great to know!
+
 12. Different kinds of programming languages and their uses.
 13. Tooling
 14. Designing large programs, what can possibly go wrong?
