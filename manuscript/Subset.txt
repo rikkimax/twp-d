@@ -1,3 +1,5 @@
-content/meta-programming/introduction.md
-content/meta-programming/languageConstructs.md
-content/meta-programming/reflection.md
+content/kindsOfLanguages/introduction.md
+content/kindsOfLanguages/native.md
+content/kindsOfLanguages/scripting.md
+content/kindsOfLanguages/shells.md
+content/kindsOfLanguages/web.md
