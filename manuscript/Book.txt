@@ -67,6 +67,13 @@ content/meta-programming/reflection.md
 content/operatorOverloads.md
 
 
+content/kindsOfLanguages/introduction.md
+content/kindsOfLanguages/native.md
+content/kindsOfLanguages/scripting.md
+content/kindsOfLanguages/shells.md
+content/kindsOfLanguages/web.md
+
+
 content/exercises/introduction.md
 content/exercises/cliCalculator.md
 content/exercises/stdioVsCliArgs.md

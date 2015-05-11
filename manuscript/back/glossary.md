@@ -34,3 +34,4 @@
 * RHS: Right Hand Side
 * FIFO: First In First Out
 * LIFO: Last In First Out
+* CDN: Content Distribution Network
