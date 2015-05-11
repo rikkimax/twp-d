@@ -20,7 +20,8 @@ Along with functions, code itself can be customized via arguments as well as con
 
 A more traditional language feature of OOP is the ability to modify its behaviour with other language features such as assignment. Operator overloading is a fairly simple feature but great to know!
 
-12. Different kinds of programming languages and their uses.
+Most language core concepts have been covered so far. Now its time to focus on the overall context that programming exists. Specifically the different kinds of programming languages that exist.
+
 13. Tooling
 14. Designing large programs, what can possibly go wrong?
 15. Idioms
