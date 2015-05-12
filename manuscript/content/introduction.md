@@ -24,7 +24,7 @@ Understanding where D sits in the compilation process is important to being able
 
 Most language core concepts have been covered so far. Now its time to focus on the overall context that programming exists. Specifically the different kinds of programming languages that exist.
 
-14. Designing large programs, what can possibly go wrong?
+14. Designing actual programs, what can possibly go wrong?
 15. Idioms
 16. Design patterns
 17. Different kinds of libraries are out there, pro/cons
