@@ -67,11 +67,7 @@ content/meta-programming/reflection.md
 content/operatorOverloads.md
 
 
-content/toolchain/introduction.md
-content/toolchain/architecture.md
-content/toolchain/compiler.md
-content/toolchain/linker.md
-content/toolchain/systemLibraries.md
+content/toolchain.md
 
 
 content/kindsOfLanguages/introduction.md
