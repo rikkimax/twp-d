@@ -43,6 +43,7 @@ class MyClass : MyInterface {
 Defined is a class which inherits from an interface.
 
 Example usage of inheritance from an interface.
+
 ```D
 import std.stdio : writeln;
 
