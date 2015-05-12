@@ -39,9 +39,11 @@ Viewing this information without the context of how and when it gets executed is
 
 Of course there are many other ways of doing it. But this is a good mental model in understanding how compilers and linkers work.
 
-
-
 **Previous Theory:**
 
+While setting up the D toolchain that you use for learning with you were introduced different compilers and options to compile D with. (toolchain wise). From this during learning you may have been introduced object files and shared libraries without understanding there purpose.
+
+An object file is essentially a group of symbols. In most cases this is determined by what (D) module it is in.
+From this a linker turns object files into either another library binary called a static library that is similar to an object file only containing many more symbols (including many different (D) modules). Or they can be turned into final binary forms which are either directly executable or loaded during runtime of an executable (shared library / Dynamic Linked Library (DLL)).
 
 [^DMCCompiler]: http://www.digitalmars.com/

@@ -35,3 +35,4 @@
 * FIFO: First In First Out
 * LIFO: Last In First Out
 * CDN: Content Distribution Network
+* DLL: Dynamic Linked Library (Windows term for shared library)
