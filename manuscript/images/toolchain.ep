@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1431436622307_9481</Property><Property name="width">741</Property><Property name="height">404.5174460411072</Property><Property name="dimBackground"/><Property name="transparentBackground"/><Property name="backgroundColor">#ffffff</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Group" xmlns:p="http://www.evolus.vn/Namespace/Pencil" transform="matrix(1,0,0,1,5,5)" id="aa6dd327f9fa43c88bbbedb366af1eda" p:sizing-gow="311" p:sizing-goh="191"><g p:type="Shape" p:def="Evolus.Common:RoundedRect" id="3770f193f1dd46d88a2a9003b3d4b8b0" transform="matrix(1,0,0,1,-1,-1)" p:sizing-ox="0" p:sizing-oy="0" p:sizing-ow="313" p:sizing-oh="193"><p:metadata><p:property name="box"><![CDATA[313,193]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,24.125]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1431436622307_9481</Property><Property name="width">741</Property><Property name="height">405</Property><Property name="dimBackground"/><Property name="transparentBackground">false</Property><Property name="backgroundColor">#FFFFFFFF</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Group" xmlns:p="http://www.evolus.vn/Namespace/Pencil" transform="matrix(1,0,0,1,5,5)" id="aa6dd327f9fa43c88bbbedb366af1eda" p:sizing-gow="311" p:sizing-goh="191"><g p:type="Shape" p:def="Evolus.Common:RoundedRect" id="3770f193f1dd46d88a2a9003b3d4b8b0" transform="matrix(1,0,0,1,-1,-1)" p:sizing-ox="0" p:sizing-oy="0" p:sizing-ow="313" p:sizing-oh="193"><p:metadata><p:property name="box"><![CDATA[313,193]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,24.125]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
                 ]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
 
             <defs>
@@ -29,7 +29,7 @@
             <use xlink:href="#d2ddd462c69b4319a01324d32b6e4a7c" xmlns:xlink="http://www.w3.org/1999/xlink" p:name="outArrow1" id="6a273e9f608c44ed8e26d976e40768ce" style="stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2;"/>
             <text p:name="text" id="ad193c34d2c64cc2842409f0b400de2b" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
                 <textPath xlink:href="#d2ddd462c69b4319a01324d32b6e4a7c" xmlns:xlink="http://www.w3.org/1999/xlink" startOffset="50%" text-anchor="middle" alignment-baseline="middle">
-                    <tspan dy="-4.333333333333333" p:name="textSpan" id="3653c18b421b4e85854e7d151fcdba9a" dx="-16"></tspan>
+                    <tspan dy="-4.333333333333333" p:name="textSpan" id="3653c18b421b4e85854e7d151fcdba9a" dx="-16"/>
                 </textPath>
             </text>
 
@@ -57,7 +57,7 @@
             <use xlink:href="#8d8fadac3ab448c3be453262c4037522" xmlns:xlink="http://www.w3.org/1999/xlink" p:name="outArrow1" id="9a10add03e244b918af6e2ae1fbcde34" style="stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2;"/>
             <text p:name="text" id="976e09b2b8f64937b1788425ac9180e8" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
                 <textPath xlink:href="#8d8fadac3ab448c3be453262c4037522" xmlns:xlink="http://www.w3.org/1999/xlink" startOffset="50%" text-anchor="middle" alignment-baseline="middle">
-                    <tspan dy="-4.333333333333333" p:name="textSpan" id="1ad5222054a844a5b87a2f6c90beb594" dx="-16"></tspan>
+                    <tspan dy="-4.333333333333333" p:name="textSpan" id="1ad5222054a844a5b87a2f6c90beb594" dx="-16"/>
                 </textPath>
             </text>
 
@@ -69,7 +69,7 @@
             <use xlink:href="#cbf38d4eff87407c94ca85c95e8be2ff" xmlns:xlink="http://www.w3.org/1999/xlink" p:name="outArrow1" id="2528ee45735c44909821ee2905f1454c" style="stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2;"/>
             <text p:name="text" id="0f702ec528d14d2999cd63b5c14f1c7c" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
                 <textPath xlink:href="#cbf38d4eff87407c94ca85c95e8be2ff" xmlns:xlink="http://www.w3.org/1999/xlink" startOffset="50%" text-anchor="middle" alignment-baseline="middle">
-                    <tspan dy="-4.333333333333333" p:name="textSpan" id="a6054fbe9e124a2d8d79ce9cce646e4c" dx="0"></tspan>
+                    <tspan dy="-4.333333333333333" p:name="textSpan" id="a6054fbe9e124a2d8d79ce9cce646e4c" dx="0"/>
                 </textPath>
             </text>
 
