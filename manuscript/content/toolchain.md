@@ -5,6 +5,38 @@ The toolchain is the most highly used tool that a developer has and will ever us
 
 **Exercises:**
 
+Without going into the exact paths of the system libraries such as phobos and druntime. Instead of calling the linker directly, dmd will be used to call the linker along with the object files. Normally this is done in one step by dmd. The compilation strategy being shown is called seperate compilation.
+
+```sh
+dmd -c helloworld.d
+dmd helloworld.o
+```
+
+1. Execute the given instructions
+2. Rewrite this as one (hint you know how to do this!)
+3. Generate a static library instead of object file using ``-lib``.
+4. Use multiple files that refer to each other e.g.
+
+    {title="first.d"}
+    ```D
+    import second;
+
+    void main() {
+        myfunc();
+    }
+    ```
+
+    {title="second.d"}
+    ```D
+    import std.stdio : writeln;
+    
+    void myfunc() {
+        writeln("Hi from second.myfunc");
+    }
+    ```
+    Hint look at ``-I`` flag!
+5. For *nix systems try making e.g. ``second.d`` a shared library!
+
 **Theory:**
 
 A toolchain can be devided up into four common features. A linker, compiler, system libraries and assembler. Assemblers are compilers except they work directly with the assembly to produce binary outputs. Instead normally compilers work at a much higher level that most developers can understand.
