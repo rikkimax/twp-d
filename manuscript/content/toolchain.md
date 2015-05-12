@@ -9,7 +9,8 @@ The toolchain is the most highly used tool that a developer has and will ever us
 
 A toolchain can be devided up into four common features. A linker, compiler, system libraries and assembler. Assemblers are compilers except they work directly with the assembly to produce binary outputs. Instead normally compilers work at a much higher level that most developers can understand.
 
-![](images/toolchain.png)
+{width=45%}
+![Toolchain software interactions](images/toolchain.png)
 
 Compilers generally speaking do not produce actual executables instead they produce what is known as an object file. Object files contain compiled to binary assembly representation of the source code without making e.g. pointers point to the real location. Object files do not need to know the real location of any symbols are, instead when the linker produces either a shared library or executable it locates and injects it where necessary.
 
@@ -35,7 +36,8 @@ This ignores the other D compilers such as gdc and ldc. However it should look v
 
 Viewing this information without the context of how and when it gets executed is pretty useless. So the general compilation sequence is:
 
-![](images/toolchain-compiler.png)
+{width=35%}
+![Compilation process](images/toolchain-compiler.png)
 
 Of course there are many other ways of doing it. But this is a good mental model in understanding how compilers and linkers work.
 
