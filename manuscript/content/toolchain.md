@@ -37,6 +37,7 @@ dmd helloworld.o
     Hint look at ``-I`` flag!
 5. For *nix systems try making e.g. ``second.d`` a shared library!
 
+{pagebreak}
 **Theory:**
 
 A toolchain can be devided up into four common features. A linker, compiler, system libraries and assembler. Assemblers are compilers except they work directly with the assembly to produce binary outputs. Instead normally compilers work at a much higher level that most developers can understand.
@@ -66,6 +67,7 @@ To understand what this all means in context of D, lets examine what implementat
 These values are important to understanding on what your current system is running as.
 This ignores the other D compilers such as gdc and ldc. However it should look very similar to this.
 
+{pagebreak}
 Viewing this information without the context of how and when it gets executed is pretty useless. So the general compilation sequence is:
 
 {width=35%}
