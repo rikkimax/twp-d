@@ -35,7 +35,7 @@ This ignores the other D compilers such as gdc and ldc. However it should look v
 
 Viewing this information without the context of how and when it gets executed is pretty useless. So the general compilation sequence is:
 
-!(Toolchain compiler process)[images/toolchain-compiler.png].
+![Toolchain compiler process](images/toolchain-compiler.png)
 
 Of course there are many other ways of doing it. But this is a good mental model in understanding how compilers and linkers work.
 
