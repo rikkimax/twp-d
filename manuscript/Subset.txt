@@ -1,5 +1,1 @@
-content/kindsOfLanguages/introduction.md
-content/kindsOfLanguages/native.md
-content/kindsOfLanguages/scripting.md
-content/kindsOfLanguages/shells.md
-content/kindsOfLanguages/web.md
+content/toolchain.md
