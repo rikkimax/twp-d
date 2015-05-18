@@ -10,10 +10,11 @@ Project management methodologies are the process to which projects are developed
 Project management is a very interesting field of study. Team leaders dedicated to studying these subjects along with many other implied ones.
 It is constantly changing and in a lot of ways very hyped field. A great example is the usage of the Software Development Life Cycle (SDLC) especially in previous years (1980's-2010) when it was never recommended. At the current time (2015) Agile based methodologies are the hyped and preffered methodologies being used by the industry. Unlike the SDLC and similar methodologies Agile based ones have been shown that in a lot of cases they are far more successful.
 
-![SDLC process](images/SDLC.jpg)
-
 The SDLC may be a failure in a lot cases, but it is well used and loved within the industry. For this reason alone it is a rather prudent decision to study it.
 
+![SDLC process](images/SDLC.jpg)
+
+{pagebreak}
 The SDLC follows the very basic process of:
 
 * Initiation
