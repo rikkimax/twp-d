@@ -82,9 +82,7 @@ content/actualPrograms/projectMethodologies.md
 content/actualPrograms/codeMethodologies.md
 content/actualPrograms/versioning.md
 content/actualPrograms/social.md
-content/actualPrograms/users.md
 content/actualPrograms/standardisation.md
-content/actualPrograms/stakeholders.md
 
 
 content/exercises/introduction.md
