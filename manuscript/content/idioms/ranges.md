@@ -1,3 +1,5 @@
+{pagebreak}
+
 ## Ranges
 **Summary:**
 
@@ -86,6 +88,8 @@ void main() {
 	}
 }
 ```
+
+{pagebreak}
 
 {title="OutputRangeExample.d"}
 ```D
