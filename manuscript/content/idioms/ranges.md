@@ -121,3 +121,27 @@ void main() {
 **Theory:**
 
 Ranges are a composable way to get and assign data to something. They are great when seeking is not required (but it is do able). When used properly that can make code dealing with raw data highly readable and memory efficient as they do not keep multiple values in memory at any time. Instead relying on processing a value around as soon as it is gained.
+
+There are two kinds of ranges available, input ranges and output ranges. Input ranges give you data. Output ranges take in data and do something with it. From this there is two ways of defining a range. You can either implement it directly on a struct or class or using a inheritance with a class. Both are valid options and work well. Only the inheritance based approach can remove the usage of meta-programming to select the implementation being used.
+
+Input ranges at the very least contain:
+
+```D
+interface MinimalInputRange(E) {
+	@property {
+		E front();
+		bool empty();
+	}
+
+	void popFront();
+}
+```
+In the above example is shown as using meta-programming to make it valid code while also generic. So the actual type being used is easier to understand where it gets swapped out for.
+
+The InputRange interface in ``std.range.interfaces``[^stdRangeInterfaces] includes a few other methods. Which inlcudes two versions of opApply and moveFront. The moveFront method returns the value of front before popFront and calls popFront afterwards. On the other hand opApply is used to overload the foreach statement. However overloading foreach is not necessary. The D programming language support using input ranges in this form, as if it was an array.
+
+Similarly to InputRange, OutputRange interface in ``std.range.interfaces`` only defines one method. That method is put.
+
+An exciting feature of ranges, is the ability to compose them together. For example using an output range to output an input range values to. Then repeating this a few time to get single unique information out of each. Of course this is highly wasteful. But can allow for concactenating on unique and seperate algorithms.
+
+[^stdRangeInterfaces]: http://dlang.org/phobos/std_range_interfaces.html

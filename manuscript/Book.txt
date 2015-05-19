@@ -84,8 +84,8 @@ content/actualPrograms/standardisation.md
 
 
 content/idioms/introduction.md
-content/idioms/ranges.md
 content/idioms/streams.md
+content/idioms/ranges.md
 
 
 content/exercises/introduction.md
