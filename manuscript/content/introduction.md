@@ -26,8 +26,10 @@ Most language core concepts have been covered so far. Now its time to focus on t
 
 So far the basics of programming has been covered. But for the actual usage in a real world situation, must be covered. The interacting with people outside of the project itself as well user acceptance is covered here.
 
-15. Idioms
-16. Design patterns
+To make your code more understandable for others, idioms are introduced. The introduction gives a short introduction to a few different kinds as well as there purpose.
+
+Along with idioms comes design patterns. Like idioms, design patterns are meant to help make your code more readable. But unlike idioms, design patterns are meant more for OOP and are more of a template on how your code must be arranged.
+
 17. Different kinds of libraries are out there, pro/cons
 18. Paradigms (procedural vs functionsal vs oop)
 19. What to do after this book?
