@@ -65,8 +65,6 @@ content/meta-programming/reflection.md
 
 
 content/operatorOverloads.md
-
-
 content/toolchain.md
 
 
@@ -83,6 +81,11 @@ content/actualPrograms/codeMethodologies.md
 content/actualPrograms/versioning.md
 content/actualPrograms/social.md
 content/actualPrograms/standardisation.md
+
+
+content/idioms/introduction.md
+content/idioms/ranges.md
+content/idioms/streams.md
 
 
 content/exercises/introduction.md
