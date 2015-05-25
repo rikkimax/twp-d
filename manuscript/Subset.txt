@@ -3,6 +3,6 @@ content/actualPrograms/projectMethodologies.md
 content/actualPrograms/codeMethodologies.md
 content/actualPrograms/versioning.md
 content/actualPrograms/versionControl.md
-content/actualPrograms/workingOnExistingCodebase.md.md
+content/actualPrograms/workingOnExistingCodebase.md
 content/actualPrograms/social.md
 content/actualPrograms/standardisation.md
