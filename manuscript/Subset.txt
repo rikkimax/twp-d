@@ -1,3 +1,8 @@
-content/idioms/introduction.md
-content/idioms/streams.md
-content/idioms/ranges.md
+content/actualPrograms/introduction.md
+content/actualPrograms/projectMethodologies.md
+content/actualPrograms/codeMethodologies.md
+content/actualPrograms/versioning.md
+content/actualPrograms/versionControl.md
+content/actualPrograms/workingOnExistingCodebase.md.md
+content/actualPrograms/social.md
+content/actualPrograms/standardisation.md
