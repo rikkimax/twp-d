@@ -5,3 +5,8 @@
 
 
 **Theory:**
+
+* Router
+* ORM
+* Templating
+* Caching
