@@ -1,4 +1,4 @@
 # Exercises
-This section lists exercises to work through. They will include dependencies as well as the actual activity and lastly the acceptance criteria.
+Ensuring and testing knowledge is a hard thing to do. Commonly when learning either a new language or library it is customary to produce a test program. When learning to program you will be unable to understand what you should do. So some exercises are listed here to get started with.
 
-TODO: MORE
+Learn from them. Having them work is ok. Just try. Ask for help if you get stuck. Remember IRC on OFTC #twp-d if you need assistance. The author will be available there atleast once a day. Otherwise the D learn newsgroup will be more than happy to help.
