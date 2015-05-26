@@ -1,6 +1,6 @@
 {pagebreak}
 
-### Web development client side
+### Client side
 **Summary:**
 
 When developing web services, it comes a time when the Javascript standard library is not enough. Libraries listed hence forth make it considerably easier.
