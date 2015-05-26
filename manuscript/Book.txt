@@ -94,9 +94,9 @@ content/kindsOfProjects/introduction.md
 content/kindsOfProjects/allEncompassing.md
 content/kindsOfProjects/utility.md
 content/kindsOfProjects/networking/introduction.md
-content/kindsOfProjects/networking/web.md
-content/kindsOfProjects/networking/webClientSide.md
-content/kindsOfProjects/networking/webServerSide.md
+content/kindsOfProjects/networking/web/introduction.md
+content/kindsOfProjects/networking/web/clientSide.md
+content/kindsOfProjects/networking/web/serverSide.md
 content/kindsOfProjects/gui.md
 content/kindsOfProjects/system.md
 
