@@ -91,6 +91,7 @@ content/idioms/ranges.md
 
 
 content/kindsOfProjects/introduction.md
+content/kindsOfProjects/allEncompassing.md
 content/kindsOfProjects/utility.md
 content/kindsOfProjects/networking/introduction.md
 content/kindsOfProjects/networking/web.md
@@ -98,7 +99,6 @@ content/kindsOfProjects/networking/webClientSide.md
 content/kindsOfProjects/networking/webServerSide.md
 content/kindsOfProjects/gui.md
 content/kindsOfProjects/system.md
-content/kindsOfProjects/allEncompassing.md
 
 
 content/exercises/introduction.md
