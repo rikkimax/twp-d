@@ -11,11 +11,11 @@ Using the files listed on the theory section (ParadigmExampleProcedural.d, Parad
 1. Multiply the interger by itself before being outputted
 2. Have an offset to the input line that is read. E.g.
 
-    ```
-       Abf: 7
-       7
-       9IJ: 6
-       6
+    ```sh
+      Abf: 7
+      7
+      9IJ: 6
+      6
     ```
 
 **Theory:**
@@ -24,6 +24,7 @@ There are three main paradigms. Procedural has the prupose of using structs/unio
 
 They each have there pros and cons. Procedural is the most used of all the paradigms today. With OOP coming in a close second. Functional is really just a baby compared but still quite massive in market shared.
 
+{pagebreak}
 Examples that demonstrates outputting an integer that is read from the standard input into standard output, using each of the three paradigms are shown below.
 
 {title=ParadigmExampleProcedural.d}
@@ -50,6 +51,8 @@ void main() {
 ```
 
 This is the most simplist to understand and write of all the versions shown. But it is also fairly simple example being used.
+
+{pagebreak}
 
 {title=ParadigmExampleOOP.d}
 ```D
@@ -89,7 +92,9 @@ void main() {
 ```
 
 In this case usually InfoReader and InfoUser would be interfaces with the implementation being passed to it some how.
-Also as D does not support a static method entry point, the free-function main is used in place.
+Also as D does not support a static method entry point, the free-function main is used in place. A static method entry point is the most common way to launch an OOP program.
+
+{pagebreak}
 
 {title=ParadigmExampleFunctional.d}
 ```D
