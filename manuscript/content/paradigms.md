@@ -12,10 +12,10 @@ Using the files listed on the theory section (ParadigmExampleProcedural.d, Parad
 2. Have an offset to the input line that is read. E.g.
 
     ```sh
-      Abf: 7
-      7
-      9IJ: 6
-      6
+     Abf: 7
+     7
+     9IJ: 6
+     6
     ```
 
 **Theory:**
