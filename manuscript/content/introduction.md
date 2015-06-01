@@ -34,9 +34,6 @@ For future easement into what already exists, different kinds of libraries are d
 
 Some languages use a set concept in how it is designed. Others use a mixture of concepts. These concepts are called paradigms. They determine what the code not only looks like, but also how it is thought of by the developer.
 
-19. What to do after this book?
-20. A list of exercises based upon the book's contents to learn from
-
 T> ## Create, Compile and Delete often!
 T> CCD or Create, Compile and Delete often is a technique used to learn programming.
 T> By creating code often, running it then delete you get to try out new techniques and language fetures quickly.
