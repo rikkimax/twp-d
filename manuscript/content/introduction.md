@@ -32,7 +32,8 @@ Along with idioms comes design patterns. Like idioms, design patterns are meant 
 
 For future easement into what already exists, different kinds of libraries are discussed as well as there uses. Examples are used to give a good example of what is and isn't one.
 
-18. Paradigms (procedural vs functionsal vs oop)
+Some languages use a set concept in how it is designed. Others use a mixture of concepts. These concepts are called paradigms. They determine what the code not only looks like, but also how it is thought of by the developer.
+
 19. What to do after this book?
 20. A list of exercises based upon the book's contents to learn from
 

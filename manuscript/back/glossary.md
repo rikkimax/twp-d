@@ -36,3 +36,4 @@
 * LIFO: Last In First Out
 * CDN: Content Distribution Network
 * DLL: Dynamic Linked Library (Windows term for shared library)
+* UFCS: Uniform Function Call Syntax

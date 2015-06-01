@@ -101,6 +101,9 @@ content/kindsOfProjects/gui.md
 content/kindsOfProjects/system.md
 
 
+content/paradigms.md
+
+
 content/exercises/introduction.md
 content/exercises/cliCalculator.md
 content/exercises/stdioVsCliArgs.md
