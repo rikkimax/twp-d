@@ -1,1 +1,3 @@
-content/paradigms.md
+content/gettingstarted/community/IRC/introduction.md
+content/gettingstarted/community/IRC/details.md
+content/gettingstarted/community/IRC/tutorial.md
