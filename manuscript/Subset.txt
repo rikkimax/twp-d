@@ -1,1 +1,14 @@
-content/gettingstarted/installing/osx.md
+content/exercises/introduction.md
+content/exercises/cliCalculator.md
+content/exercises/stdioVsCliArgs.md
+content/exercises/guessANumber.md
+content/exercises/ranges.md
+
+
+backmatter.txt
+back/glossary.md
+back/ascii.md
+back/traits.md
+back/references.md
+back/exerciseAnswers/introduction.md
+
