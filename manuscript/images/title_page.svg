@@ -16,7 +16,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="C:\Users\rikki\Desktop\bitmap.png"
+   inkscape:export-filename="/home/rikki/projects/twp-d/manuscript/images/title_page.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="title_page.svg">
@@ -1747,10 +1747,10 @@
      inkscape:cy="513.60172"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:window-width="2880"
+     inkscape:window-height="1730"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4">
@@ -1760,7 +1760,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2144,7 +2144,7 @@
        xml:space="preserve"
        id="flowRoot6857"
        style="font-size:56px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-18.182746,12.121831)"><flowRegion
+       transform="matrix(1.046551,0,0,1.2270988,-28.539109,-29.636056)"><flowRegion
          id="flowRegion6859"><rect
            id="rect6861"
            width="733.37079"
@@ -2152,9 +2152,10 @@
            x="191.92899"
            y="114.94062"
            style="font-size:56px;line-height:125%;letter-spacing:0px" /></flowRegion><flowPara
-         id="flowPara6863">The way to program</flowPara></flowRoot>    <text
+         id="flowPara6863"
+         style="font-size:52px">The way to program</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a6390d;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.35433070999999999;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a6390d;fill-opacity:1;stroke:none;font-family:Sans"
        x="187.88838"
        y="228.07771"
        id="text6865"
@@ -2162,12 +2163,13 @@
          sodipodi:role="line"
          id="tspan6867"
          x="187.88838"
-         y="228.07771">- <tspan
-   style="fill:#000000"
-   id="tspan4699">Lets think like a </tspan><tspan
-   style="fill:#0000ff;stroke-width:0.35433070999999999;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         y="228.07771"
+         style="font-size:36px">- <tspan
+   style="fill:#000000;font-size:36px"
+   id="tspan4699">Let's think like a </tspan><tspan
+   style="fill:#0000ff;fill-opacity:1;font-size:36px"
    id="tspan6869">D</tspan>(<tspan
-   style="fill:#a6390d;stroke:#0000ff;stroke-opacity:1;stroke-width:0.35433070999999999;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+   style="fill:#a6390d;fill-opacity:1;stroke:#0000ff;stroke-width:0.35433071999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-size:36px"
    id="tspan6871">eveloper</tspan>)</tspan></text>
     <text
        xml:space="preserve"
