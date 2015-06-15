@@ -15,6 +15,7 @@ Alternatively come on IRC at http://OFTC.net and join us on [#twp-d](irc://irc.o
 
 ## TODO
 
-3. Cleanup
-4. Fleshing
-5. Polishing
+1. Run spell checker again
+``for f in $(find -name '*.md'); do aspell -c $f; done``
+2. Read every word and sentance, rewrite as necessary.
+3. Finalize
