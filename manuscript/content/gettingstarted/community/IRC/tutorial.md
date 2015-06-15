@@ -13,7 +13,7 @@ To getting started:
     
     ```KSL
       if(!$serverdb.networkexists(OFTC)) {
-          serverdb.addNetwork -q OFTC
+          serverdb.addNetwork OFTC
           serverdb.addServer OFTC irc.oftc.net
           serverdb.setServerJoinChannels OFTC irc.oftc.net #twp-d:
 
@@ -59,7 +59,7 @@ T> ```
 
 T> **Learn about nickserv!**
 T>
-T> As has mentioned there are many different services available. The first one being introduced of course is Nickserv. Have an explore and learn more about it by using ``/msg nickserv help``.
+T> As has mentioned there are many different services available. The first one being introduced is of course Nickserv. Have an explore and learn more about it by using ``/msg nickserv help``.
 
 T> **Basic commands**
 T>

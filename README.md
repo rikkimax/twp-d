@@ -14,7 +14,6 @@ The development of this book is being streamed at [livecoding.tv](http://livecod
 ## TODO
 **Pages:**
 
-1. content/gettingstarted/community/IRC/tutorial.md
 2. content/gettingstarted/installing/osx.md
 3. Cleanup
 4. Fleshing
