@@ -45,14 +45,15 @@ Most of the steps in between these two stages is license acceptance and location
 !["Run anyway"](images/gettingStarted/osx/4-2.png)
 
 #### Installing dub
+
 You'll probably also want dub (the build manager) for D. At the point of the writing of this book dub is not distributed with dmd. It is planned to be. So you may not need to do this.
 
 First you need to install homebrew[^HomeBrewSite].
 
-{width=75%}
+{width=65%}
 ![Getting homebrew installed](images/gettingStarted/osx/6.png)
 
-{width=75%}
+{width=65%}
 ![Now install dub](images/gettingStarted/osx/6-1.png)
 
 [^HomeBrewSite]: http://brew.sh/
