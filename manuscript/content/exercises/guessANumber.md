@@ -15,10 +15,10 @@ The pseudo code for this program is:
 
 ```psuedo
 set max to 100
-set min to 1
+set min to 0
 
 while max not equals to min do
-	set value to ((max minice min) devide by two) plus min
+	set value to ((max - min) / two) + min
 	output "Is your number greater than " value
 	input to answer
 	
@@ -36,7 +36,6 @@ if max equals min then
 	otherwise
 		output "You cheated!"
 ```
-//FIXME: algorithm isn't right
 
 1. Turn the pseudo code into D code
 2. Add the ability to say that the guessed number is your number within the while loop
@@ -59,6 +58,8 @@ Is your number less than 75: no
 Is your number 75: Yes
 Game got your number!
 ```
+
+You may add formatting to your leisure and paraphrase.
 
 T> **Tips!**
 T>
