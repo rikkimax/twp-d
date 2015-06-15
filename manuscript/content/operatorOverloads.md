@@ -2,7 +2,7 @@
 **Summary:**
 
 Operator overloads allows the developer to modify the default behaviour of a type when interacted with in an expression with any specified (or possibly only specified in user code) types.
-This includes on assignment, multiplication or devision.
+This includes on assignment, multiplication or division.
 
 **Exercises:**
 
@@ -28,7 +28,7 @@ void main() {
 ```
 
 1. Compile and run the example code.
-2. In the given code it does a simple comparion. Perhaps change the value of b to match?
+2. In the given code it does a simple comparison. Perhaps change the value of b to match?
 3. Try out ``opCast`` from D's documentation[^DLangOpOverloadsDocs].
 4. How about ``opAssign``?
 5. And ``opIndex`` using an array as the backing value?
@@ -38,7 +38,7 @@ Given D's documentation having a wide variety of examples a simple order of thin
 
 **Theory:**
 
-Most of the time developers have no need for operator overloads. The main users are library makers. Which is highly recommended that as a developer you work towards. Library makers focus upon making highly reusable code for use by other programmers. One of their main goals is to map data structures to form easily coherant and understood (modification wise) to other types code. One of the tools they use is operator overloads. This allows them to make user code very simple and elegant while also doing complex tasks.
+Most of the time developers have no need for operator overloads. The main users are library makers. Which is highly recommended that as a developer you work towards. Library makers focus upon making highly reusable code for use by other programmers. One of their main goals is to map data structures to form easily coherent and understood (modification wise) to other types code. One of the tools they use is operator overloads. This allows them to make user code very simple and elegant while also doing complex tasks.
 On the other hand operator overloads also have the ability to make code hard to read and understand. Because of its nature of changing the default language behaviour of expressions. Within the D language there is a vast array of operator overloads, more so then most other languages. But less then what C++ has. This choice was to prevent it from making code harder to understand but allow the developer to extend the language semantics enough to map the code to the mind as easy as possible.
 
 There is a few types of operator overloads. First off assignment overloads allow to manipulate the given type with another in place. Where as with unary operator overloads creates a new value given an input one. Although it is not required to create a new value but highly recommended.

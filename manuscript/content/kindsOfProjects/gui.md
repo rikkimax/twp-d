@@ -10,14 +10,14 @@ GUI's are commonly associated with what a program is today. A GUI toolkit provid
 There is a few main ways to interact with the user today. With GUI's being synonymous with a program today. The other two being command line and web.
 Which is quite unfortunate today as GUI's are very expensive.
 
-GUI toolkits can be broken down into:
+GUI tool kits can be broken down into:
 
 * Window creation
 	Creates a window to be interacted with. Most likely depends on e.g. image library to support an icon.
 	There will commonly also be platform specific support.
 	Optionally there may be display support. For the purposes of e.g. what the monitor supports.
 * Image read/manipulation
-	Quite often a seperate library (usualy in standard library) to enable loading into memory and manipulating images.
+	Quite often a separate library (usually in standard library) to enable loading into memory and manipulating images.
 * Drawing
 	Core drawing support, will be slightly higher level to support the controls drawing. But will depend upon context creation.
 * Context creation

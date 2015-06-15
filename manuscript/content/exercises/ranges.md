@@ -3,7 +3,7 @@
 ## Ranges
 **Summary:**
 
-Ranges are an amazing idiom. In This exerciese they will be used to get some information and calculate some values based upon it.
+Ranges are an amazing idiom. In This exercise they will be used to get some information and calculate some values based upon it.
 
 **Dependency:**
 

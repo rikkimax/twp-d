@@ -138,10 +138,10 @@ interface MinimalInputRange(E) {
 ```
 In the above example is shown as using meta-programming to make it valid code while also generic. So the actual type being used is easier to understand where it gets swapped out for.
 
-The InputRange interface in ``std.range.interfaces``[^stdRangeInterfaces] includes a few other methods. Which inlcudes two versions of opApply and moveFront. The moveFront method returns the value of front before popFront and calls popFront afterwards. On the other hand opApply is used to overload the foreach statement. However overloading foreach is not necessary. The D programming language support using input ranges in this form, as if it was an array.
+The InputRange interface in ``std.range.interfaces``[^stdRangeInterfaces] includes a few other methods. Which includes two versions of opApply and moveFront. The moveFront method returns the value of front before popFront and calls popFront afterwards. On the other hand opApply is used to overload the foreach statement. However overloading foreach is not necessary. The D programming language support using input ranges in this form, as if it was an array.
 
 Similarly to InputRange, OutputRange interface in ``std.range.interfaces`` only defines one method. That method is put.
 
-An exciting feature of ranges, is the ability to compose them together. For example using an output range to output an input range values to. Then repeating this a few time to get single unique information out of each. Of course this is highly wasteful. But can allow for concactenating on unique and seperate algorithms.
+An exciting feature of ranges, is the ability to compose them together. For example using an output range to output an input range values to. Then repeating this a few time to get single unique information out of each. Of course this is highly wasteful. But can allow for concactenating on unique and separate algorithms.
 
 [^stdRangeInterfaces]: http://dlang.org/phobos/std_range_interfaces.html

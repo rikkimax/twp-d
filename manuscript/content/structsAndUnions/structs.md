@@ -79,7 +79,7 @@ MyStruct myStruct = MyStruct(4);
 Would have assigned ``x`` *4*. But now it would assign ``z`` *4*
 
 {pagebreak}
-There is another special function related to constructors. Destructors are the oposite of constructors. They execute when the type will be removed from memory. A destructor like a costructor has no return type. But unlike a constructor it does not have arguments, yet it still has the argument brackets.
+There is another special function related to constructors. Destructors are the opposite of constructors. They execute when the type will be removed from memory. A destructor like a constructor has no return type. But unlike a constructor it does not have arguments, yet it still has the argument brackets.
 Simple test example:
 
 ```D
@@ -105,5 +105,5 @@ Upon program exit, the constructor upon myStruct should be called.
 
 **Previous theory:**
 
-Structs like primitive types, are declared using the ``type name;`` syntax. However for initialisation there is special usage. Specifically in the format of ``type(arguments)``. Where the arguments must match one of the constructors or if none are defined the order for the defined variable types.
+Structs like primitive types, are declared using the ``type name;`` syntax. However for initialization there is special usage. Specifically in the format of ``type(arguments)``. Where the arguments must match one of the constructors or if none are defined the order for the defined variable types.
 Structs encapsulate functions called methods. There first argument is the instance of the struct. Which is referred to as *this*. The instance variable *this* is implicit when you call. There is no requirement to pass it explicitly as if it was a free-function. Free-functions are another name for functions that do not belong to a struct/union/class.

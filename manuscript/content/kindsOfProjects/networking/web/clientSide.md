@@ -3,7 +3,7 @@
 ### Client side
 **Summary:**
 
-When developing web services, it comes a time when the Javascript standard library is not enough. Libraries listed hence forth make it considerably easier.
+When developing web services, it comes a time when the JavaScript standard library is not enough. Libraries listed hence forth make it considerably easier.
 
 **Theory:**
 
@@ -15,7 +15,7 @@ Ajax is the communication mechanism for a website to communicate with a web serv
 An example of this for Prototype is a simple HTTP 'GET' request to a relative URL and output the text once it has been gained or output the error.
 
 {title="http://prototypejs.org/learn/introduction-to-ajax.html"}
-```javascript
+```JavaScript
 new Ajax.Request('/some_url', {
   method:'get',
   onSuccess: function(transport) {
@@ -28,9 +28,9 @@ new Ajax.Request('/some_url', {
 
 The other feature that you must be aware of is the $[^DollarFuncDocs] function. The $ function is a special one within development. In essence it finds a DOM element by the an id.
 
-The major difference between jQuery[^jQueryDollarDollarFuncDocs] and Prototype is that Prototype has a seperate function that supports CSS selectors. That is $$[^DollarDollarFuncDocs].
+The major difference between jQuery[^jQueryDollarDollarFuncDocs] and Prototype is that Prototype has a separate function that supports CSS selectors. That is $$[^DollarDollarFuncDocs].
 
-Even though client side is listed as its own category it doesn't necessarily is. Javascript which is the client side language commonly used can have e.g. utility libraries. With these include client side templating as well as date/time handling.
+Even though client side is listed as its own category it doesn't necessarily is. JavaScript which is the client side language commonly used can have e.g. utility libraries. With these include client side templating as well as date/time handling.
 
 [^PrototypeSite]: http://prototypejs.org/
 [^jQuerySite]: https://jquery.com/

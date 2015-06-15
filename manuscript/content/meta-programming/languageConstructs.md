@@ -30,7 +30,7 @@ void main() {
 In this example MyTemplateBlock is both the name of the template but also the name of the variable within it. When this happens what ever symbol is called the template name becomes the end symbol for the template.
 
 {pagebreak}
-The last of the features that should be mentioned here is static if. A static if statement is a conditional statement at works at compile time but unlike a regular if statement it cna exist out of a function body.
+The last of the features that should be mentioned here is static if. A static if statement is a conditional statement at works at compile time but unlike a regular if statement it can exist out of a function body.
 
 ```D
 // configuration file for library ext.

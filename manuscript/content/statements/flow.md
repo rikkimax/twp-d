@@ -69,14 +69,14 @@ else {
 ```
 
 Following this, the first loop is introduced. The while loop. 
-The while loop allows for executing a set of statements continuesly until the expression evaluates to false.
+The while loop allows for executing a set of statements continuously until the expression evaluates to false.
 
 ```D
 while(<expression>) {
    <statements>
 }
 ```
-It is read as, while expression(that is boolean) is true do this.
+It is read as, while expression(that is Boolean) is true do this.
 In other words, it executes the statements within the body until the expression evaluates to false.
 
 So the flow is:
@@ -137,7 +137,7 @@ while(i < int.max) {
 }
 ```
 
-The type int isn't the only type a for loop can work with. They work with any primitive type. The starting value (0 in this case) and the maximum number (int.max) are completely up to the end developer and may be variables/expressions. The number to increase per is also arbituary. It could just as easily be ``i += 2``.
+The type int isn't the only type a for loop can work with. They work with any primitive type. The starting value (0 in this case) and the maximum number (int.max) are completely up to the end developer and may be variables/expressions. The number to increase per is also arbitrary. It could just as easily be ``i += 2``.
 
 {pagebreak}
 There is one other loop based upon the for loop. It is called foreach. A foreach statement is quite a lot more advanced than a for loop. In that it has built in behaviour for arrays and can use external functions to change it.

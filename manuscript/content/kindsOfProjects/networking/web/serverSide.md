@@ -16,7 +16,7 @@ For server side, there are four common set of libraries that you see. Quite ofte
 * ORM
 	Maps a class to a database table. Making it easy to manipulate the database using language constructs.
 * Templating
-	Make html document more powerful. Not only can they replace parts with others specified in code, but also duplicate and conditionally add them.
+	Make HTML document more powerful. Not only can they replace parts with others specified in code, but also duplicate and conditionally add them.
 * Caching
 	Create/get some content only once, then serve it up, lots of times.
 
@@ -26,7 +26,7 @@ A rather popular ORM is Hibernate[^Hibernate].
 
 Less well known templating library is JADE[^Jade].
 
-An independent server that handles caching is memcached[^Memcached]. Commonly it is paired with a serialization library to handle objects.
+An independent server that handles caching is Memcached[^Memcached]. Commonly it is paired with a serialization library to handle objects.
 
 [^KleinRouter]: https://github.com/chriso/klein.php
 [^Hibernate]: http://hibernate.org/orm/

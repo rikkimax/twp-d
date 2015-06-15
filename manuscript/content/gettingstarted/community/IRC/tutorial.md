@@ -1,14 +1,14 @@
 {pagebreak}
 
 #### Tutorial
-Please use the connection details listed in previous page, if you are wanting help or general chat reguarding this book or anything related to it.
+Please use the connection details listed in previous page, if you are wanting help or general chat regarding this book or anything related to it.
 
-Kvirc is a very powerful tool. It has full scripting capabilities [^KVSDocs]. Even capable of creating a window that a user could interact with.
+KVirc is a very powerful tool. It has full scripting capabilities [^KVSDocs]. Even capable of creating a window that a user could interact with.
 
 To getting started:
 
 1. Install, this is dependent upon your platform but should be fairly straight forward. Available from http://www.kvirc.net/?id=releases&lang=en
-2. You need to add a new server to KVirc's server list.
+2. You need to add a new server to KVirc server list.
     A simple script that can do this for you is:
     
     ```KSL
@@ -17,7 +17,7 @@ To getting started:
           serverdb.addServer OFTC irc.oftc.net
           serverdb.setServerJoinChannels OFTC irc.oftc.net #twp-d:
 
-          dialog.textinput (Your nickname?,<center>What is your nickname?</h1></center>,"Ok")
+          dialog.textinput (Your nickname?,<center>What is your nickname?</h1></center>,"OK")
           {
               serverdb.setServerNickName OFTC irc.oftc.net #twp-d $0
           }
@@ -51,7 +51,7 @@ After going through all of this, have a play around KVirc. Learn about its inter
 
 T> **To execute the above code**
 T>
-T> Use this one line code snippet executed in the open irc context input box (it's at the bottom and quite long).
+T> Use this one line code snippet executed in the open IRC context input box (it's at the bottom and quite long).
 T>
 T> ``` KSL
 T>   /dialog.textinput -m (Eval?,<center><h1>What do you want to execute?</h1></center>,"Ok") {eval($0)}

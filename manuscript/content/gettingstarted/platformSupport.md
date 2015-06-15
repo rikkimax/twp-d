@@ -1,18 +1,18 @@
 ## Platform support
-There are three main toolchains available for D. Keep in mind a toolchain is not just the compiler (source code to e.g. exe's aka the runnable binaries). A toolchain includes the linker and some import libraries commonly.
+There are three main tool chains available for D. Keep in mind a tool chain is not just the compiler (source code to e.g. exe's aka the runnable binaries). A tool chain includes the linker and some import libraries commonly.
 
-* dmd (Reference compiler)
+* DMD (Reference compiler)
 
    Available on all x86 CPU's for Windows, OSX and Linux. Debian based distros are the most supported for Linux.
-* ldc (LLVM family)
+* LDC (LLVM family)
 
    Available on all x86 CPU's for Windows, OSX and Linux.
-* gdc (GNU family)
+* GDC (GNU family)
 
    Available on all x86 CPU's for OSX and Linux.
 
-Currently no toolchain out right supports ARM or PowerPC. Older Mac OSX machines used the PowerPC architecture. These are not supported.
+Currently no tool chain out right supports ARM or Power-PC. Older Mac OSX machines used the Power-PC architecture. These are not supported.
 
-I> **While learning you should only use the latest version of dmd**
+I> **While learning you should only use the latest version of DMD**
 I> 
-I> This will give you the best support and experiance.
+I> This will give you the best support and experience.

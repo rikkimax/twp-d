@@ -3,7 +3,7 @@
 ## Version control
 **Summary:**
 
-Versioning the release of a project is only half the story. Versioning the changes done to a codebase can be a complex and messy task. But it can also allow large numbers of developers to work together while keeping the code made up to date.
+Versioning the release of a project is only half the story. Versioning the changes done to a code base can be a complex and messy task. But it can also allow large numbers of developers to work together while keeping the code made up to date.
 
 **Theory:**
 
@@ -11,7 +11,7 @@ Version Control (VC) is a very powerful system to manage changes done to a direc
 It's commonly used for software development, to manage the changes to source code. However it can be used for other file formats and even binaries. So it is not limited to just flat text files or software development.
 
 There are two kinds of VC systems available to date. Distributed and central. Distributed systems are the most common in the market today. Such systems include Git and Mercurial.
-Alternatively there is centrally hosted VC systems such as SVN and CVS. Git currently is becomming the most used one in open source projects thanks to Github.
+Alternatively there is centrally hosted VC systems such as SVN and CVS. Git currently is becoming the most used one in open source projects thanks to Github.
 Github has two very useful websites. The first is a tutorial on how to use Git[^GitTutorial], which will teach you interactively to use Git online. The second is more a reference to how Git works and how to use it with Github[^GithubHelp].
 
 The common process to how VC systems work is:

@@ -5,8 +5,8 @@ Dependencies:
 
 - XCode
 
-XCode provides the basis infrastructure for dmd on OSX. It is available from the app store for free and can be installed like any other.
-Currently the dmd installation media for OSX is not signed meaning you will be requried to enable non signed installation media. You will be instructed about this when you try to install it.
+XCode provides the basis infrastructure for DMD on OSX. It is available from the app store for free and can be installed like any other.
+Currently the DMD installation media for OSX is not signed meaning you will be required to enable non signed installation media. You will be instructed about this when you try to install it.
 
 
 #### General installation
@@ -29,7 +29,7 @@ If you have default settings with signing of programs for installation you will 
 Follow the steps listed under *Unsigned image running*.
 
 {width=75%}
-![Start of dmd installer](images/gettingStarted/osx/5.png)
+![Start of DMD installer](images/gettingStarted/osx/5.png)
 
 Most of the steps in between these two stages is license acceptance and location to install with. Defaults are fine.
 
@@ -48,9 +48,9 @@ Most of the steps in between these two stages is license acceptance and location
 
 #### Installing dub
 
-You'll probably also want dub (the build manager) for D. At the point of the writing of this book dub is not distributed with dmd. It is planned to be. So you may not need to do this.
+You'll probably also want dub (the build manager) for D. At the point of the writing of this book dub is not distributed with DMD. It is planned to be. So you may not need to do this.
 
-First you need to install homebrew[^HomeBrewSite].
+First you need to install home brew[^HomeBrewSite].
 
 {width=65%}
 ![Getting homebrew installed](images/gettingStarted/osx/6.png)

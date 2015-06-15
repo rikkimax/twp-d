@@ -9,8 +9,8 @@ If you want to be able to generate 64bit binaries install the latest version Vis
 
 {pagebreak}
 
-#### Installing dmd
-This installs dmd with only 32bit support on Windows.
+#### Installing DMD
+This installs DMD with only 32bit support on Windows.
 
 {width=75%}
 ![](images/gettingStarted/windows/1.png)
@@ -71,7 +71,7 @@ This installs dub.
 {pagebreak}
 
 #### Installing Visual Studio
-Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstalling dmd so it auto configures to use it.
+Installs Visual Studio 2013 Community Edition. With a separate step of re-installing DMD so it auto configures to use it.
 
 {width=75%}
 ![](images/gettingStarted/windows/vs-1.png)
@@ -95,7 +95,7 @@ Installs Visual Studio 2013 Community Eddition. With a seperate step of reinstal
 ![](images/gettingStarted/windows/vs-7.png)
 
 {width=75%}
-![If you have already installed dmd, you would have been asked to uninstall it previous to this window](images/gettingStarted/windows/vd-1.png)
+![If you have already installed DMD, you would have been asked to uninstall it previous to this window](images/gettingStarted/windows/vd-1.png)
 
 {width=75%}
 ![](images/gettingStarted/windows/vd-2.png)

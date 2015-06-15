@@ -8,7 +8,7 @@ These styles map to different peoples minds differently.
 
 Using the files listed on the theory section (ParadigmExampleProcedural.d, ParadigmExampleOOP.d, ParadigmExampleFunctional.d):
 
-1. Multiply the interger by itself before being outputted
+1. Multiply the integer by itself before being outputted
 2. Have an offset to the input line that is read. E.g.
 
     ```sh
@@ -20,7 +20,7 @@ Using the files listed on the theory section (ParadigmExampleProcedural.d, Parad
 
 **Theory:**
 
-There are three main paradigms. Procedural has the prupose of using structs/unions has contexts and having free-functions to manipulate them in some form. OOP is uses classes almost purely in the aim of making highly abstracted, swappable code. And of course lastly functional, which tried to think of how data gets passed around using functions to mutate as it goes.
+There are three main paradigms. Procedural has the purpose of using structs/unions has contexts and having free-functions to manipulate them in some form. OOP is uses classes almost purely in the aim of making highly abstracted, swappable code. And of course lastly functional, which tried to think of how data gets passed around using functions to mutate as it goes.
 
 They each have there pros and cons. Procedural is the most used of all the paradigms today. With OOP coming in a close second. Functional is really just a baby compared but still quite massive in market shared.
 
@@ -50,7 +50,7 @@ void main() {
 }
 ```
 
-This is the most simplist to understand and write of all the versions shown. But it is also fairly simple example being used.
+This is the most simplest to understand and write of all the versions shown. But it is also fairly simple example being used.
 
 {pagebreak}
 
@@ -116,7 +116,7 @@ The above code snippet uses a language feature called Uniform Function Call Synt
 
 Another language feature that will be unfamiliar to the reader will be the => syntax. This is a lambda[^LambdaDocs] basically a function.
 
-Out of the examples shown, functional is by far the smallest in code length. It is also tied with OOP for the most complex. While procedural at first glance is definately the easiest to read and understand.
+Out of the examples shown, functional is by far the smallest in code length. It is also tied with OOP for the most complex. While procedural at first glance is definitely the easiest to read and understand.
 Of note is that the OOP implementation already supports swapping of implementations for reading an integer and outputting it.
 
 [^UFCSDocs]: http://dlang.org/function.html#pseudo-member

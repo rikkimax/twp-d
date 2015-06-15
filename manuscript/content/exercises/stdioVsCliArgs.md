@@ -1,6 +1,6 @@
 {pagebreak}
 
-## CLI args vs standard io
+## CLI args vs standard IO
 **Summary:**
 
 Lets put some of the information together to create a little application that will test your knowledge of the difference between command line arguments and the standard input stream.
@@ -30,7 +30,7 @@ void main(string[] args) {
 }
 ```
 The above application, may look a bit daunting but that is its purpose. It is meant to make you want to remove features, instead of adding them.
-It uses language features so far not covered, specifically while loops. The join function may seem scary also but really it just takes an array of strings and turns it into a single string with a seperator in between the elements.
+It uses language features so far not covered, specifically while loops. The join function may seem scary also but really it just takes an array of strings and turns it into a single string with a separator in between the elements.
 
 Using the program *applyCliStdIn.d", lets look at what it does. First by running it as:
 

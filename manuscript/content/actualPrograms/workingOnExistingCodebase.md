@@ -1,9 +1,9 @@
 {pagebreak}
 
-## Working on existing codebase
+## Working on existing code base
 **Summary:**
 
-Learning a new code base for the purpose of maintenace or improvement is a challenge. This section discusses on how to start out in such a task.
+Learning a new code base for the purpose of maintenance or improvement is a challenge. This section discusses on how to start out in such a task.
 
 **Theory:**
 
@@ -12,14 +12,14 @@ But the challenge can be either quite steep or a nice steps to be taken is simpl
 
 There are two kinds of existing code bases that you may take on. You will either have developers and working as part of their team or you will be taking on a project from the wild where there is no longer any other developers working on it.
 
-If you are working with existing developers, you need to understand two main things. The first is ego's. You are new. Even if you have 20 years experiance in related systems, understand that they have ego's tied to that system. It's just human nature. Be careful and honest to them.
+If you are working with existing developers, you need to understand two main things. The first is ego's. You are new. Even if you have 20 years experience in related systems, understand that they have ego's tied to that system. It's just human nature. Be careful and honest to them.
 The second thing you must understand is that a team of developers will have a style of programming. As you are working on their code base you must adhere to them. Even if this includes how to space out your comments. Try to fit to their style. Style can be changed later. Give it a go.
 
-All of the above is basically dedicated to a few things to be aware of socically within a project. On to how to actually start working on the code base.
+All of the above is basically dedicated to a few things to be aware of socially within a project. On to how to actually start working on the code base.
 
 You may not be given a computer already ready to go. If not, read the code base e.g. build management system and documentation related to it and ask as soon as you run into issues. There is no shame in not knowing how to get it running.
 
-Next work out how to run it. Running and debugging meachnism will make working on the code base a lot easier. This will include things such as IDE/debugger. Perhaps even a webserver and Virtual Machine (VM) environment.
+Next work out how to run it. Running and debugging mechanism will make working on the code base a lot easier. This will include things such as IDE/debugger. Perhaps even a web server and Virtual Machine (VM) environment.
 
 With the general environment working, you should investigate the code base itself. There is two things that you should learn about straight up. Where the entry point(s) to the program is and the general layout of the program. Every program that is well structured will have common design elements throughout it. This includes design patterns and how algorithms work in general.
 

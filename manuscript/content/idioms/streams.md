@@ -17,6 +17,6 @@ void write(ubyte[] from);
 ```
 This can be used as a method or a free function. However if used as a free function it will include some form of context. Which is most likely a struct.
 
-There is also a very good chance depending on its usage for it to include other arguments such as an ip address and port to send the data to. But generally speaking this would be included as part of the context struct.
+There is also a very good chance depending on its usage for it to include other arguments such as an IP address and port to send the data to. But generally speaking this would be included as part of the context struct.
 
 There might be other versions of both read and write. For example taking in a string instead of an array of ubyte's. However they would on call to the two given functions. If however it does include these other functions, it will be used to format it and 'lower' it so it is easier to use.

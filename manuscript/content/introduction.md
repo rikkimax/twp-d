@@ -3,11 +3,11 @@ Programming is an exciting subject, even more so when there are other people inv
 
 Don't fret if you don't have friends on this journey! Even if you are an introvert you will make some fairly easily. Join the social groups available to you which are listed under *getting started*. The community will help you when you get stuck on this journey, as we all started from the bottom like you are now. The only way to fail, is to not try at all while learning.
 
-Before being able to write any code you need some tools under your belt! These tools are not too difficult to gain or use, unless of course you are running Windows 95! Most of what you need to do is download and install a few programs. Thats about it. There is also some information reguarding how to get help and how to act on those services. You will also need to test your tools (specifically the compiler which makes code runnable!) and don't worry this is not too intense!
+Before being able to write any code you need some tools under your belt! These tools are not too difficult to gain or use, unless of course you are running Windows 95! Most of what you need to do is download and install a few programs. That's about it. There is also some information regarding how to get help and how to act on those services. You will also need to test your tools (specifically the compiler which makes code runnable!) and don't worry this is not too intense!
 
-Having a working toolchain is an excelllant first step in becomming a programmer. Without one, well the code is practically useless. So with one you can begin in understanding how to make a computer think like you do about data. But that doesn't tell the computer what is in that data. For that you need variables and types! But that doesn't help you if you only have some data understood by the computer in memory. Now on to how to manipulate it using statements and expressions.
+Having a working tool chain is an excellent first step in becoming a programmer. Without one, well the code is practically useless. So with one you can begin in understanding how to make a computer think like you do about data. But that doesn't tell the computer what is in that data. For that you need variables and types! But that doesn't help you if you only have some data understood by the computer in memory. Now on to how to manipulate it using statements and expressions.
 
-Now that you have the ability to manipulate and act on data, you can apply it in a context. Thats right, programs are run with a context. They are given information and have the ability to perform input output based upon it! This will be your entry skill set to any language that you may face in the future.
+Now that you have the ability to manipulate and act on data, you can apply it in a context. That's right, programs are run with a context. They are given information and have the ability to perform input output based upon it! This will be your entry skill set to any language that you may face in the future.
 In other words, the ability to execute, store, manipulate data and take input/output to the user.
 
 So far data are represented with fairly simple types with the most complex being arrays. Which are really pretty simple in themselves too! Now lets move on to more complex types which essentially just group functions and data together. So in others grouping of some data to make a context for functions to act upon!
@@ -16,11 +16,11 @@ Structs and unions may seem simple and awesome, but lets look at making data ext
 
 Now we can see how complex data types can be. Lets take a look into what code really is shall we? Function and delegate pointers allow for executing code out of their original declarations. This style of programming is formally known as functional (although this is a very basic part of it).
 
-Along with functions, code itself can be customized via arguments as well as conditionally compiled. This introduces to the pandoras box which is Compile Time Function Execution (CTFE) as well as meta-programming.
+Along with functions, code itself can be customized via arguments as well as conditionally compiled. This introduces to the Pandora's box which is Compile Time Function Execution (CTFE) as well as meta-programming.
 
 A more traditional language feature of OOP is the ability to modify its behaviour with other language features such as assignment. Operator overloading is a fairly simple feature but great to know!
 
-Understanding where D sits in the compilation process is important to being able to work with it properly. So the basis of what the toolchain is actually doing is explained here.
+Understanding where D sits in the compilation process is important to being able to work with it properly. So the basis of what the tool chain is actually doing is explained here.
 
 Most language core concepts have been covered so far. Now its time to focus on the overall context that programming exists. Specifically the different kinds of programming languages that exist.
 
@@ -36,7 +36,7 @@ Some languages use a set concept in how it is designed. Others use a mixture of 
 
 T> ## Create, Compile and Delete often!
 T> CCD or Create, Compile and Delete often is a technique used to learn programming.
-T> By creating code often, running it then delete you get to try out new techniques and language fetures quickly.
+T> By creating code often, running it then delete you get to try out new techniques and language features quickly.
 T> In fact parts of this book was written by content generated by such scripts.
 
 T> ## Sleep

@@ -22,11 +22,11 @@
    A method of annotating formatting instructions into a post for e.g. forums.
 * Bulletin board
 
-   The primary method of communication between internet users before centralised communication with internet backbones between ISP's. It was used heavily in the 80's. IRC originated from this technology.
+   The primary method of communication between internet users before centralized communication with internet backbones between ISP's. It was used heavily in the 80's. IRC originated from this technology.
 * ISP: Internet Service Provider
 * OOP: Object Orientated Programming
 
-   An advanced way to represent information hierachies in memory.
+   An advanced way to represent information hierarchies in memory.
 * Open source: Source code available for reading, modification
 * MSB: Most Significant Bit
 * LSB: Least Significant Bit

@@ -1,5 +1,5 @@
 # ASCII table
-Note where the backslash is used in the usage column. If it is prepends an x, then it is using per byte the value you specify. Where as if it prepends another letter, then it is an alias of the real value. The usage column may be used straight into D strings or character literals.
+Note where the backslash is used in the usage column. If it is pre-pends an x, then it is using per byte the value you specify. Where as if it pre-pends another letter, then it is an alias of the real value. The usage column may be used straight into D strings or character literals.
 
 | Decimal | Hex   | Usage | Name |
 |--------------|---------|----------------|-----|
@@ -94,12 +94,12 @@ Note where the backslash is used in the usage column. If it is prepends an x, th
 | 88  | 0x58 | 'X' | |
 | 89  | 0x59 | 'Y' | |
 | 90  | 0x5a | 'Z' | |
-| 91  | 0x5b | '[' | open squere bracket |
+| 91  | 0x5b | '[' | open square bracket |
 | 92  | 0x5c | '\\' | back slash |
-| 93  | 0x5d | ']' | close squere bracket |
-| 94  | 0x5e | '^' | carot |
+| 93  | 0x5d | ']' | close square bracket |
+| 94  | 0x5e | '^' | carat |
 | 95  | 0x5f | '_' | |
-| 96  | 0x60 | '`' | backtick |
+| 96  | 0x60 | '`' | back-tick |
 | 97  | 0x61 | 'a' | |
 | 98  | 0x62 | 'b' | |
 | 99  | 0x63 | 'c' | |

@@ -1,7 +1,7 @@
 # How code is grouped
 **Summary:**
 
-Programs are grouped into two different layers. The first layer, which you already understand well is a file. For programming D it is refered to as a *module*. The second is internal to a file and that is a function.
+Programs are grouped into two different layers. The first layer, which you already understand well is a file. For programming D it is referred to as a *module*. The second is internal to a file and that is a function.
 
 **Exercises:**
 

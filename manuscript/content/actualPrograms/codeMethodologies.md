@@ -11,7 +11,7 @@ Generally speaking there are a few methodologies used while implementing a proje
 
 Test Drive Development and Behaviour Driven Development heavily rely upon the ecosystem that is implementing the project to add reassurance that the system is complete and without bugs.
 
-TDD uses unittesting libraries to ensure the completeness of the implementation to the expected usage of it.
-Where as for BDD, the usage of libraries to explain the expected behaviour of the code (the input/output and how it does it). Unlike TDD, BDD can help to automate the creation process for the codebase. It can also act as a testing mechanism like unittesting.
+TDD uses unit testing libraries to ensure the completeness of the implementation to the expected usage of it.
+Where as for BDD, the usage of libraries to explain the expected behaviour of the code (the input/output and how it does it). Unlike TDD, BDD can help to automate the creation process for the code base. It can also act as a testing mechanism like unit testing.
 
-Unlike project methodologies, code methodologies are a fairly young area of study and have really only came about since Agile methologies became popular.
+Unlike project methodologies, code methodologies are a fairly young area of study and have really only came about since Agile methodologies became popular.

@@ -3,7 +3,7 @@
 ## Utility
 **Summary:**
 
-Utility libraries by themselves do almost thing to a program and are freely changable. They mostly provide wrappers and interfaces to certain concepts such as date and time.
+Utility libraries by themselves do almost thing to a program and are freely changeable. They mostly provide wrappers and interfaces to certain concepts such as date and time.
 
 **Theory:**
 

@@ -10,7 +10,7 @@ Before we can write a simple "Hello World" program, we first have to check that 
 dmd
 ```
 
-If it is not found, you will need to debug your ``PATH`` variable and ensure you have installed dmd correctly.
+If it is not found, you will need to debug your ``PATH`` variable and ensure you have installed DMD correctly.
 
 T> **Debugging the PATH variable**
 T>
@@ -20,16 +20,16 @@ T>
 T>    ```sh
 T>    echo %PATH%
 T>    ```
-T>    To see your PATH variable's contents. Each entry will be seperated with a semicolon (;).
+T>    To see your PATH variable's contents. Each entry will be separated with a semicolon (;).
 T>    For *nix (Linux/OSX) use:
 T>    
 T>    ```sh
 T>    echo $PATH
 T>    ```
-T>    Each entry will be seperated by a colon (:).
-T> 3. To add a directory specifically dmd/bin to the ``PATH`` variable is dependent upon your OS. So it won't be gone into here.
+T>    Each entry will be separated by a colon (:).
+T> 3. To add a directory specifically DMD/bin to the ``PATH`` variable is dependent upon your OS. So it won't be gone into here.
 
-Once your command line shell can use dmd, create a directory that you can access resonably easily. Using a text editor under this directory create the given code:
+Once your command line shell can use dmd, create a directory that you can access reasonably easily. Using a text editor under this directory create the given code:
 
 {title="helloworld.d",lang=D}
 ```
@@ -62,9 +62,9 @@ rdmd helloworld.d
 ```
 If this has worked as expected you should have received on the standard output (more on this later, take it as just being your shell) the text ``Hello World!``.
 
-Not all programming languages seperate these two steps out. But what are known as *native* languages or system programming languages, require it. They are the fastest and most efficient of all the languages.
+Not all programming languages separate these two steps out. But what are known as *native* languages or system programming languages, require it. They are the fastest and most efficient of all the languages.
 
-Most code in this book will probably be using only one file. As such rdmd is the best method to use for these programs. In real world usage dmd is the way you should be compiling your code, as you get full control over the method used. For small scripts rdmd is perfactly acceptable like we are using it for.
+Most code in this book will probably be using only one file. As such rdmd is the best method to use for these programs. In real world usage DMD is the way you should be compiling your code, as you get full control over the method used. For small scripts rdmd is perfectly acceptable like we are using it for.
 
 T> You may have noticed ``#!/usr/bin/env rdmd`` in the source file. 
 T> This is for *nix based operation systems. When the file has executable permissions, it allows it to execute. Without directly calling rdmd/dmd.

@@ -8,7 +8,7 @@ Project management methodologies are the process to which projects are developed
 **Theory:**
 
 Project management is a very interesting field of study. Team leaders dedicated to studying these subjects along with many other implied ones.
-It is constantly changing and in a lot of ways very hyped field. A great example is the usage of the Software Development Life Cycle (SDLC) especially in previous years (1980's-2010) when it was never recommended. At the current time (2015) Agile based methodologies are the hyped and preffered methodologies being used by the industry. Unlike the SDLC and similar methodologies Agile based ones have been shown that in a lot of cases they are far more successful.
+It is constantly changing and in a lot of ways very hyped field. A great example is the usage of the Software Development Life Cycle (SDLC) especially in previous years (1980's-2010) when it was never recommended. At the current time (2015) Agile based methodologies are the hyped and preferred methodologies being used by the industry. Unlike the SDLC and similar methodologies Agile based ones have been shown that in a lot of cases they are far more successful.
 
 The SDLC may be a failure in a lot cases, but it is well used and loved within the industry. For this reason alone it is a rather prudent decision to study it.
 
@@ -40,4 +40,4 @@ Because of it being iterative, the risk of doing things wrong the first time doe
 
 A more common Agile methodology is Scrum. Within the Scrum community are Scrum masters, who taking courses to up skill themselves in able to perform it. Their job is to coordinate and manage a team using it.
 
-The above theory is by far not complete. There is many good books, aritcles and research papers on these topics. As well as reports and reviews about projects using them. Review these topics if you wish to further broaden your knowledge in them.
+The above theory is by far not complete. There is many good books, articles and research papers on these topics. As well as reports and reviews about projects using them. Review these topics if you wish to further broaden your knowledge in them.
