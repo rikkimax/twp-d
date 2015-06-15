@@ -32,5 +32,5 @@ content/gettingstarted/helloworld.md
 
 backmatter.txt
 back/glossary.md
-back/references.md
 back/exerciseAnswers/introduction.md
+back/references.md

@@ -113,8 +113,8 @@ content/exercises/ranges.md
 
 backmatter.txt
 back/glossary.md
+back/exerciseAnswers/introduction.md
 back/ascii.md
 back/traits.md
 back/references.md
-back/exerciseAnswers/introduction.md
 
