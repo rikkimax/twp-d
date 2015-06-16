@@ -13,9 +13,16 @@ Alternatively come on IRC at http://OFTC.net and join us on [#twp-d](irc://irc.o
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The way to program - Lets think like a D(eveloper)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://leanpub.com/twp-d" property="cc:attributionName" rel="cc:attributionURL">Richard Andrew Cattermole</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/rikkimax/twp-d" rel="dct:source">https://github.com/rikkimax/twp-d</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/rikkimax/twp-d/LICENSE.md" rel="cc:morePermissions">https://github.com/rikkimax/twp-d/license.md</a>.
 
-## TODO
+## Next iteration
 
-1. Run spell checker again
-``for f in $(find -name '*.md'); do aspell -c $f; done``
-2. Read every word and sentence, rewrite as necessary.
-3. Finalize
+Due around October 2015.
+
+- Add design pattern section
+- Continues Integration (Travis?)
+- Github
+- Other tools e.g. make
+- More exercises
+- More exercises author answers
+- Fixup large whitespace areas
+- Flesh out more
+- Add more footnotes
