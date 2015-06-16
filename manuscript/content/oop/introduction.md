@@ -5,7 +5,7 @@ Object Orientated Programming (OOP) is an encapsulation idiom for data and code.
 
 **Theory:**
 
-Object Orientated Programming is a way to encapsulate data and code. Like Structs, classes[^DLangClasses] have methods and variables. The biggest difference between a Struct and a Class is that classes are allocated on the heap instead of the stack.
+Object Orientated Programming is a way to encapsulate data and code. Like structs, classes[^DLangClasses] have methods and variables. The biggest difference between a struct and a class is that classes are allocated on the heap instead of the stack.
 
 An example class is:
 

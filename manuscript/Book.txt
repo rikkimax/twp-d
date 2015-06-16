@@ -3,6 +3,7 @@ front/biography.md
 front/howToRead/introduction.md
 front/howToRead/theory.md
 front/howToRead/general.md
+front/readerBeware.md
 
 
 mainmatter.txt

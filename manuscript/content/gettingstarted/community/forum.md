@@ -1,7 +1,7 @@
 {pagebreak}
 
 ### Forums
-Web based forums are one of the most common web applications used in online communities. They are simple to setup and easy to for users to interact with. They commonly use a form of writing called BBcode. BB-codes are a method to encode certain formatting instructions such as font size and images. These take very little space and require no set format for the entirety of the post. They can be mixed with other formats such as markdown.
+Web based forums are one of the most common web applications used in online communities. They are simple to setup and easy to for users to interact with. They commonly use a form of writing called BBcode. BBcodes are a method to encode certain formatting instructions such as font size and images. These take very little space and require no set format for the entirety of the post. They can be mixed with other formats such as markdown.
 BBcode came before markdown and was heavily used and still is today in forums.
 
 Markdown is a popular format in both hosted version control systems (think Github and Bitbucket) and even for book writing environments.
