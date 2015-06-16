@@ -38,7 +38,7 @@ dmd excodegroup1.d excodegroup2.d -ofexcodegroup
 ./excodegroup
 ```
 
-For Windows users, note that it has the exe extension for the generated binary.
+For Windows users, note that it has the EXE extension for the generated binary.
 
 1. Change the text in myfunction "Hi from myfunction!" to something else.
 2. What happens if you remove the brackets in the main function when "calling" myfunction.
@@ -58,7 +58,7 @@ As stated in the summary, there are two grouping layers in D. A module and a fun
    Modules contain the source code of your program. Modules can refer to others to use their source code indirectly. This is called an import. The ``helloworld.d`` example used in the getting started chapter is an example of this. It uses import to include the module ``std.stdio``. This is a module in D's standard library. This is denoted by the "std." in front of "stdio".
    When reading module names, split it by a dot. All but the last part is a directory. The last one is the file name without d extension on the end.
 
-   As an example of this, you will find ``std.stdio.d`` source code in the phobos repository on Github[^phobosStdStdioFile]. Do not be afraid at looking at the source code for the standard library. It may be beyond you, but you will learn a lot from it.
+   As an example of this, you will find ``std.stdio.d`` source code in the Phobos repository on Github[^phobosStdStdioFile]. Do not be afraid at looking at the source code for the standard library. It may be beyond you, but you will learn a lot from it.
 
    While in the D community you may see ``.di`` files. These are similar to ``.d`` files except that they do not contain actual source code. Only the definitions to it.
 - Function

@@ -3,7 +3,7 @@ Dependencies:
 
 - *Optional:* Visual Studio Community Edition 2013
 
-Getting dmd to work out of the box for Windows is a little more difficult, if you want 64bit support. By default it can generate 32bit binaries fine. Which is good enough for this book. Your CPU may support 64bit but 32bit binaries will work just as well.
+Getting DMD to work out of the box for Windows is a little more difficult, if you want 64bit support. By default it can generate 32bit binaries fine. Which is good enough for this book. Your CPU may support 64bit but 32bit binaries will work just as well.
 
 If you want to be able to generate 64bit binaries install the latest version Visual Studio Community Edition[^VisualStudioDownloads]. At the time of this writing that was 2013.
 
@@ -34,7 +34,7 @@ This installs DMD with only 32bit support on Windows.
 ![](images/gettingStarted/windows/7.png)
 
 {width=75%}
-![The warnings are benign, follow other instructions to get mentione software](images/gettingStarted/windows/8.png)
+![The warnings are benign, follow other instructions to get mention software](images/gettingStarted/windows/8.png)
 
 {width=75%}
 ![This is installed automatically with Visual Studio](images/gettingStarted/windows/9.png)

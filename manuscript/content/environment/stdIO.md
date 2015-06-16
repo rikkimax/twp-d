@@ -33,7 +33,7 @@ void main() {
     }
    ```
 6. So with the above code we can see that it outputs to the one line, yet three function calls occur. And one of them which we know can take many arguments has none. What happens if writeln is removed?
-7. In the first write function call, lets add the text ``\n`` at the end (but inside of the quotes).
+7. In the first write function call, lets add the text ``\\n`` (single dash as it is an escape sequence) at the end (but inside of the quotes).
 8. So far stdout and stderr have been shown. Now to move on to stdin. So lets use a new snippet of code.
    
    ```D
@@ -47,7 +47,7 @@ void main() {
         writeln(line);
     }
    ```
-9. So you can read some text up to when you press enter and assign it to a string variable. Previously it was mentioned that ``\n`` made the command line put text on the next line. Is there a way to test for that? Perhaps manipulating the string as an array.
+9. So you can read some text up to when you press enter and assign it to a string variable. Previously it was mentioned that ``\\n``(single dash as it is an escape sequence) at the end (but inside of the quotes) made the command line put text on the next line. Is there a way to test for that? Perhaps manipulating the string as an array.
 
 **Theory:**
 

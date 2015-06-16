@@ -3,7 +3,7 @@
 ## Streams
 **Summary:**
 
-Streams are a much older technique at getting and sending data to other api's then ranges. However unlike ranges they do not have native D support directly in it.
+Streams are a much older technique at getting and sending data to other API's then ranges. However unlike ranges they do not have native D support directly in it.
 
 **Theory:**
 

@@ -22,7 +22,7 @@ void main() {
 ```
 
 1. Run this code, what does it output? Can you change it?
-2. How about adding another free-function that adds instead of multiplies? Replace the assignment to ``myFunction`` it. Does it give the apropriete value?
+2. How about adding another free-function that adds instead of multiplies? Replace the assignment to ``myFunction`` it. Does it give the appropriate value?
 3. Lets move on to delegates after function pointers. First use the new code and run it.
 
     ```D

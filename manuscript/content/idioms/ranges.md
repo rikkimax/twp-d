@@ -78,7 +78,7 @@ class MyInputRange : InputRange!int {
 }
 
 void main() {
-	writeln("Please input some interger numbers!");
+	writeln("Please input some integer numbers!");
 	writeln("Type an invalid number aka anything not a whole number to stop the program");
 	writeln();
 

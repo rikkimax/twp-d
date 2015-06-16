@@ -46,7 +46,7 @@ Lets break things down.
 2. Output some text to the standard output
 3. Until the word *stop* is written to standard input, the program keeps going
 4. Write out the text that was combined (step 1) to standard output
-5. Read until a new line character(*\n*) is read from standard input and assign it into a variable which will be used in step 3
+5. Read until a new line character(``\\n`` only one dash as it is an escape sequence) is read from standard input and assign it into a variable which will be used in step 3
 
 **Activities:**
 

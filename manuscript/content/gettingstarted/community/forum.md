@@ -1,7 +1,7 @@
 {pagebreak}
 
 ### Forums
-Web based forums are one of the most common web applications used in online communities. They are simple to setup and easy to for users to interact with. They commonly use a form of writing called BBcode. BBcodes are a method to encode certain formatting instructions such as font size and images. These take very little space and require no set format for the entirety of the post. They can be mixed with other formats such as markdown.
+Web based forums are one of the most common web applications used in online communities. They are simple to setup and easy to for users to interact with. They commonly use a form of writing called BBcode. BB-codes are a method to encode certain formatting instructions such as font size and images. These take very little space and require no set format for the entirety of the post. They can be mixed with other formats such as markdown.
 BBcode came before markdown and was heavily used and still is today in forums.
 
 Markdown is a popular format in both hosted version control systems (think Github and Bitbucket) and even for book writing environments.
@@ -15,7 +15,7 @@ Commonly with posts a signature may be attached. Not all communities will apprec
 
 Some posts may be what is known as stickied. Stickied posts are posts that will always stay at the top of a forum board. This will be done by a moderator or an admin to help make the forum/board maintenance easier. So when first joining keep an eye on them, read the ones applicable to you so that you can follow the rules and fit in.
 
-Not all posts should be commented to. When a post ages by a certain time, most communities will deem it 'wrong' to comment. Bringing back a thread from death essentially. This is known as Necro posting. The age deemed as dead will be different per community. Some will enforce it such as Reddit by auto blocking such commenting.
+Not all posts should be commented to. When a post ages by a certain time, most communities will deem it 'wrong' to comment. Bringing back a thread from death essentially. This is known as necro posting. The age deemed as dead will be different per community. Some will enforce it such as Reddit by auto blocking such commenting.
 
 At the end of the day, do what the moderators tell you to unless an admin/owner says otherwise.
 

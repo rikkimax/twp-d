@@ -15,7 +15,7 @@ Currently the DMD installation media for OSX is not signed meaning you will be r
 ![Get on to D's website!](images/gettingStarted/osx/1.png)
 
 {width=75%}
-![Download the dmg file to install from](images/gettingStarted/osx/2.png)
+![Download the DMG file to install from](images/gettingStarted/osx/2.png)
 
 {width=75%}
 ![Open up the DMG file](images/gettingStarted/osx/3.png)
@@ -50,10 +50,10 @@ Most of the steps in between these two stages is license acceptance and location
 
 You'll probably also want dub (the build manager) for D. At the point of the writing of this book dub is not distributed with DMD. It is planned to be. So you may not need to do this.
 
-First you need to install home brew[^HomeBrewSite].
+First you need to install Homebrew[^HomeBrewSite].
 
 {width=65%}
-![Getting homebrew installed](images/gettingStarted/osx/6.png)
+![Getting Homebrew installed](images/gettingStarted/osx/6.png)
 
 {width=65%}
 ![Now install dub](images/gettingStarted/osx/6-1.png)

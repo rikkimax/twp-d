@@ -1,5 +1,5 @@
 ## Platform support
-There are three main tool chains available for D. Keep in mind a tool chain is not just the compiler (source code to e.g. exe's aka the runnable binaries). A tool chain includes the linker and some import libraries commonly.
+There are three main tool chains available for D. Keep in mind a tool chain is not just the compiler (source code to e.g. EXE's aka the runnable binaries). A tool chain includes the linker and some import libraries commonly.
 
 * DMD (Reference compiler)
 
