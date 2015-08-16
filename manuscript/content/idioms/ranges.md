@@ -124,6 +124,7 @@ Ranges are a composable way to get and assign data to something. They are great 
 
 There are two kinds of ranges available, input ranges and output ranges. Input ranges give you data. Output ranges take in data and do something with it. From this there is two ways of defining a range. You can either implement it directly on a struct or class or using a inheritance with a class. Both are valid options and work well. Only the inheritance based approach can remove the usage of meta-programming to select the implementation being used.
 
+{pagebreak}
 Input ranges at the very least contain:
 
 ```D
