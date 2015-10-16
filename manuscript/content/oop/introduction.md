@@ -2,6 +2,7 @@
 **Summary:**
 
 Object Orientated Programming (OOP) is an encapsulation idiom for data and code. Similar to Structs.
+They can be used to seperate implementation from the API to be used. Quite a powerful way to seperate out and allow choosing which implementation at runtime to use. Which unlike free-functions and structs provides a neat way to not lock yourself into any one process of filling the API requirements.
 
 **Theory:**
 
