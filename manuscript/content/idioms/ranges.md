@@ -37,9 +37,7 @@ class MyInputRange : InputRange!int {
 	}
 
 	int moveFront() {
-		int ret = front;
-		popFront;
-		return ret;
+		return lastValue;
 	}
 
 	void popFront() {
@@ -139,7 +137,7 @@ interface MinimalInputRange(E) {
 ```
 In the above example is shown as using meta-programming to make it valid code while also generic. So the actual type being used is easier to understand where it gets swapped out for.
 
-The InputRange interface in ``std.range.interfaces``[^stdRangeInterfaces] includes a few other methods. Which includes two versions of opApply and moveFront. The moveFront method returns the value of front before popFront and calls popFront afterwards. On the other hand opApply is used to overload the foreach statement. However overloading foreach is not necessary. The D programming language support using input ranges in this form, as if it was an array.
+The InputRange interface in ``std.range.interfaces``[^stdRangeInterfaces] includes a few other methods. Which includes opApply and moveFront. For moveFront it is used as a cheaper way to get access to the value, via moving. On the other hand opApply is used to overload the foreach statement. However overloading foreach is not necessary. The D programming language support using input ranges in this form, as if it was an array.
 
 Similarly to InputRange, OutputRange interface in ``std.range.interfaces`` only defines one method. That method is put.
 
